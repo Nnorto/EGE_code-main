@@ -10,6 +10,20 @@ def f(start, end, flag):
 
 print(f(1, 9, False))
 
+
+def f(start, end, km):
+    if start == end:
+        return 1
+    if start > end:
+        return 0
+    if km == 1:
+        return f(start + 1, end, 0) + f(start + 2, end, 0)
+    return f(start + 1, end, 0) + f(start + 2, end, 0) + f(start * 2, end, 1)
+
+
+print(f(1, 9, 0))
+
+
 """
 Исполнитель преобразует число на экране.
 У исполнителя есть три команды, которым присвоены номера:
