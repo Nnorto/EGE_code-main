@@ -5,6 +5,7 @@ n = len(a)
 # бежим в первй раз
 for i in range(len(a)):
     s += a[i] * min(i, n - i)
+
 mins = s
 print('***', s)
 
