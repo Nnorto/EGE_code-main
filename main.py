@@ -1,25 +1,21 @@
-from itertools import *
+def f(x, a1, a2):
+    return (170 <= x <= 580) <= (((not(a1<=x<=a2)) and not(290<=x<=810)) <= (not(170<= x <= 580)))
 
-f_count = 1
-for x in product("АПРСУ", repeat=5):
-    f = ''.join(x)
-    if not(f.count('У') <= 1 and 'АА'not in f):
-        f_count += 1
-    else:
-        break
+maxd = 10**10
+for a1 in range(120, 850):
+    for a2 in range(a1 + 1, 850):
+        for x in range(120, 850):
+            if f(x, a1, a2) == 0:
+                break
+        else:
+            maxd = min(maxd, a2 - a1)
 
-print(f_count)
+print(maxd, maxd/10)
 
-alf = "апрсу"
-index = 0
-for x1 in alf:
-    for x2 in alf:
-        for x3 in alf:
-            for x4 in alf:
-                for x5 in alf:
-                    s = x1+x2+x3+x4+x5
-                    index += 1
-                    if "аа" not in s:
-                        if s.count("у") <= 1:
-                            print(s, index)
-                            exit()
+
+maxd = 10**10
+for a1 in range(120, 850):
+    for a2 in range(a1 + 1, 850):
+        if all(f(x, a1, a2) for x in range(120, 850)):
+            maxd = min(maxd, a2-a1)
+print(maxd, maxd/10)

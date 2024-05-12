@@ -37,6 +37,8 @@ for a1 in range(150, 900):
         for x in range(150, 900):
             if f(a1, a2, x):
                 kx += 1
+            else:
+                break
         if kx == (900 - 150):
             mind = min(mind, a2 - a1)
 
