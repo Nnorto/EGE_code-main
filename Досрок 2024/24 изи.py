@@ -12,5 +12,12 @@ s = s.replace('00', '0 0')
 s = s.replace('bb', 'b b')
 s = s.replace('00', '0 0')
 s = s.split()
+
+
 print(len(max(s, key=len)))
 
+# или
+maxl = 0
+for x in s:
+    maxl = max(maxl, len(x))
+print(maxl)
