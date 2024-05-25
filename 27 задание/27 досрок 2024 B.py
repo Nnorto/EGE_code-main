@@ -1,4 +1,4 @@
-f = open('27 пример')
+f = open('27 файлы/27-B1.txt')
 n = int(f.readline())
 a = [int(x) for x in f]
 mins = 10**10
