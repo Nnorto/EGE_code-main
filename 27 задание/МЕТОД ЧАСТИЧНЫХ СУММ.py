@@ -18,19 +18,21 @@ n = int(f.readline())
 k = 4
 s = [0]*k
 a, b = map(int, f.readline().split())
-a, b = max(a, b), min(a, b)
+a, b = min(a, b), max(a, b)  # разбираем отдельно первую строчку
+s[a % k] = a  # исключаем ситуацию чтобы записаласть строго максимальная сумма
 s[b % k] = b
-s[a % k] = a
-for x in f:
-    a, b = map(int, x.split())
-    vs = []
-    for i in s:
-        if i != 0:
-            vs.append(a + i)
-            vs.append(b + i)
-    proms = [0]*k
-    for i in vs:
-        proms[i % k] = max(proms[i % k], i)
-    s = proms.copy()
+for i in range(1, n):
+    a, b = map(int, f.readline().split())
+    vs = []  # создаем возможные суммы
+    for x in s:
+        if x != 0:
+            vs.append(x + a)
+            vs.append(x + b)
+    sp = [0] * 4  # предварительные суммы с тек шага
+    for x in vs:
+        sp[x % k] = max(sp[x % k], x) # максимальные суммы с опред остатком
 
-print(s[0])
+    s = sp.copy()  # предварительные суммы (итоговые) копируем в главный массив
+
+print(max(s[1:4]))
+print(s[0], 'answ')
