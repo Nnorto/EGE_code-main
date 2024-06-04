@@ -1,32 +1,22 @@
-def f(x, y):
-    if x > y:
-        return 0
-    if x == y:
-        return 1
-
-    if '9' == str(x)[0]:
-        return f(x + 1, y)
-
-    if '9' == str(x)[1]:
-        return f(x + 10, y) + f(x + 1, y)
-
-    return f(x + 1, y) + f(x + 11, y)
-
-print(f(25, 51))
-
-def f(x, y):
-    if x == y:
-        return 1
-    if x > y:
-        return 0
-    s = ""
-    for c in str(x):
-        if c == '9':
-            s += c
+def ss(n, k):
+    s = ''
+    while n > 0:
+        if n % 12 == 10:
+            s = 'A' + s
+        elif n % 12 == 11:
+            s = 'B' + s
         else:
-            s += str(int(c)+1)
+            s = str(n % k) + s
+        n //= k
+    return s
 
-    return f(int(s), y) + f(x+1, y)
+for n in range(1, 10000):
+    n12 = ss(n, 12)
+    if n % 12 == 0:
+        n12 += n12[-3:]
+    else:
+        n12 += ss((n % 12)*12, 12)
+    r = int(n12, 12)
+    if r <= 1380:
+        print(r)
 
-
-print(f(25, 51))
