@@ -10,7 +10,7 @@ preflen = [0]*k
 for i in range(len(a)):
     si += a[i]
     leni = i + 1  # текущая длина
-    if si % 100 == 0 and si < mins:
+    if si % k == 0 and si < mins:
         mins = si
         minlen = leni
     maybe_sum = si - prefs[si % k]  # возможная сумма которая кратна 100
