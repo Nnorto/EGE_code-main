@@ -21,19 +21,30 @@ def B(m):
 def A(m):
     k = 2
     a = m
-    maxl = 0
-    st = 0
-    for i in range(len(a)):
-        st += a[i]
-        td = i + 1
-        if st < 0 and st % 2 == 0:
-            maxl = max(maxl, td)
-    return maxl
+    pref = [10 ** 100] * k
+    prefd = [10 ** 100] * k
+    s = maxs = maxd = 0
+    for i in range(n):
+        s += a[i]
+        if s < 0:
+            if s % k == 0:
+                maxs = s
+                maxd = i + 1
+            else:
+                vs = s - pref[s % k]
+                vsd = i - prefd[s % k] + 1
+                if vsd > maxd and vs < 0:
+                    maxs = vs
+                    maxd = vsd
+            if pref[s % k] > s:
+                pref[s % k] = s
+                prefd[s % k] = i + 1
 
+    return maxd
 from  random import *
 n = 100
 for i in range(100):
-    a = [randrange(-100, 10) for x in range(n)]
+    a = [randrange(-100, 1) for x in range(n)]
     resA = A(a)
     resB = B(a)
     if resA != resB:
