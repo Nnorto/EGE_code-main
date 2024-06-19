@@ -1,60 +1,22 @@
-f = open('27 задание/27 файлы/27_A_2_day.txt')
-n = int(f.readline())
-a = [int(x) for x in f]
-k = 100
-s = 0
-preflen = 0
-pref = 0
-maxl = 0
-for i in range(len(a)):
-    s += a[i]
-    if s % 2 == 0 and s < 0:
-        maxl = i + 1
-    else:
-        vs = s - pref
-        vsl = i + 1 - preflen
-        if vs < 0 and abs(vs) % 2 == 0:
-            maxl = max(maxl, vs)
-        if pref < s and abs(vs) % 2 == 0:
-            pref = s
-            preflen = i + 1
+from itertools import *
 
-print(maxl)
+alf = "кума"
+c = 0
+for x in product(alf, repeat=5):
+    s = ''.join(x)
+    if s[0] not in 'уа' and s[-1] in 'уа':
+        c += 1
+print(c)
 
-f = open('27 задание/27 пример')
-n = int(f.readline())
-k = 2
-a = [int(x) for x in f]
-pref = [0] * k
-prefd = [0] * k
-s = maxd = 0
 
-for i in range(n):
-    s += a[i]
-    if s < 0:
-        if s % k == 0:
-            maxd = i + 1
-        else:
-            vs = s - pref[s % k]
-            vsd = i - prefd[s % k] + 1
-            if vsd > maxd and vs % 2 == 0:
-                maxd = vsd
-            if pref[s % k] < s:
-                pref[s % k] = s
-                prefd[s % k] = i + 1
+alf = "кума"
+num = 0
+for x1 in "км":
+    for x2 in alf:
+        for x3 in alf:
+            for x4 in alf:
+                for x5 in 'уа':
+                    s = x1 + x2 + x3 +x4 + x5
+                    num += 1
+print(num)
 
-print(maxd)
-
-f = open('27 задание/27 пример')
-n = int(f.readline())
-k = 2
-a = [int(x) for x in f]
-maxl = 0
-st = 0
-for i in range(len(a)):
-    st += a[i]
-    td = i + 1
-    if st < 0 and st % 2 == 0:
-        maxl = max(maxl, td)
-
-print(maxl)
