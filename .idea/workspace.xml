@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3de82368-9152-4c39-8653-cc32611ad622" name="Changes" comment="Решение">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nnorto&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Nnorto/EGE_code-main.git&quot;,
+    &quot;accountId&quot;: &quot;9af4b08f-3907-4e5c-abd4-91422f75158b&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/main.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2fuvI2SsvYZnSUb0M4jxdo5movs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1 куча короткий.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12-ричная запись.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14 НОВОЕ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15 xy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16 jopa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16 сумма с картинки.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17 ИЗИ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19-21 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19-21 уменьшение.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19-21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22 ГОД бидоны файл А.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22 ГОД бидоны файл Б.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22 резерв термоконтейнеры А.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22 резерв термоконтейнеры Б.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23 демка 2025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23 не более 2-х умножений.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24 два способа.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24 еще пример.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24 изи.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25 bin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25 маски 2025 демо.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25 маски егэ 2022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25.executor&quot;: &quot;Run&quot;,
+    &quot;Python.26 3,14ЗДЕЦ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27 2б статика сумма чисел кратна 24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27 2б сумма четн а произв дел на 7 и индекс не менее 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27 2б тюрьма индекс не меньше 5 и прзв кр 13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27 A.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27 B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27 досрок 2024 B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27 досрок 2024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27 отриц послед.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8 егэ 2023 числа в 9сс.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TEST.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tets 27.executor&quot;: &quot;Run&quot;,
+    &quot;Python.any и all.executor&quot;: &quot;Run&quot;,
+    &quot;Python.m+a%n == 0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Досрок 2024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ЕГЭ 2021 МАКСИМАЛЬНАЯ ПРЕФ СУММА И МАКС ДЛИНА.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ЕГЭ 2023 ДОСРОК.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ЕГЭ 2024 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.ЕГЭ 2024 числа 9сс.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ЕГЭ 2024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.МЕТОД ЧАСТИЧНЫХ СУММ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Метод двух указателей.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Парковки для автомобилей и микроавтобусов.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ровно одна команда умножения.executor&quot;: &quot;Run&quot;,
+    &quot;Python.больше четных чем нечетных.executor&quot;: &quot;Run&quot;,
+    &quot;Python.векторное произведение повороты.executor&quot;: &quot;Run&quot;,
+    &quot;Python.дан адрес и адрес сети найти наиб количество адресов в сети.executor&quot;: &quot;Run&quot;,
+    &quot;Python.дан адрес компа и маска найти номер компа.executor&quot;: &quot;Run&quot;,
+    &quot;Python.демо 2025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.егэ 2017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.егэ 2021 перфиксные суммы и длины.executor&quot;: &quot;Run&quot;,
+    &quot;Python.егэ 2023.executor&quot;: &quot;Run&quot;,
+    &quot;Python.изи.executor&quot;: &quot;Run&quot;,
+    &quot;Python.колич пар произв кратно 14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.метод половинного деления.executor&quot;: &quot;Run&quot;,
+    &quot;Python.мкад 109 км остатки круговая трасса.executor&quot;: &quot;Run&quot;,
+    &quot;Python.много способов решить 15 на дел и другие типы.executor&quot;: &quot;Run&quot;,
+    &quot;Python.наиб возм занчение 3 байта маски.executor&quot;: &quot;Run&quot;,
+    &quot;Python.не более 2-х раз.executor&quot;: &quot;Run&quot;,
+    &quot;Python.не более 4-х четных чисел.executor&quot;: &quot;Run&quot;,
+    &quot;Python.опять dell.executor&quot;: &quot;Run&quot;,
+    &quot;Python.отрезки которые не решаются.executor&quot;: &quot;Run&quot;,
+    &quot;Python.пары чисел не дел на 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.предпоследняя команда 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.проверка.executor&quot;: &quot;Run&quot;,
+    &quot;Python.произв не менее 5 подряд идущих чисел.executor&quot;: &quot;Run&quot;,
+    &quot;Python.простое число.executor&quot;: &quot;Run&quot;,
+    &quot;Python.тройки.executor&quot;: &quot;Run&quot;,
+    &quot;Python.увелич каждый разряд.executor&quot;: &quot;Run&quot;,
+    &quot;Python.файл А бидоны но уже с отступом.executor&quot;: &quot;Run&quot;,
+    &quot;Python.файл Б бидоны но уже с отступами.executor&quot;: &quot;Run&quot;,
+    &quot;Python.чет из егэ 2024.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lucky/PycharmProjects/EGE_code-main/ЕГЭ 2023&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\ЕГЭ 2023" />
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\ЕГЭ 2024 СЛИВ 2 день" />
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\ЕГЭ 2024 СЛИВ" />
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\ШПОРА" />
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\27 задание\27 файлы" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\ЕГЭ 2023" />
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\17 задание\17 файлы" />
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\26 задание\Файлы" />
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\27 задание\27 файлы" />
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\27 задание" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="11 задание" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EGE_code-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Демо 2025" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Демо 2025/11 задание.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12 задание" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EGE_code-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Демо 2025" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Демо 2025/12 задание.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="13 задание" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EGE_code-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Демо 2025" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Демо 2025/13 задание.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="14 задание" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EGE_code-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Демо 2025" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Демо 2025/14 задание.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EGE_code-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.11 задание" />
+        <item itemvalue="Python.14 задание" />
+        <item itemvalue="Python.13 задание" />
+        <item itemvalue="Python.12 задание" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\lucky\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3de82368-9152-4c39-8653-cc32611ad622" name="Changes" comment="" />
+      <created>1714663694668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714663694668</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1714664031303</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714664031303</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1714664043929</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714664043929</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1714927628224</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714927628224</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1715022014259</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715022014259</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1715181467065</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715181467065</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1715187730370</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715187730370</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1715270482201</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715270482201</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1715281665557</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715281665557</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1715527730774</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715527730774</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1716042247351</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716042247351</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1716042324859</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1716042324859</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1716117567343</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1716117567343</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1716135992859</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1716135992859</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1716476246845</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1716476246845</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1716657269146</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1716657269146</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1716721117202</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1716721117202</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1717249945378</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1717249945378</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1717533149066</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1717533149067</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1717671182044</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1717671182044</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1717790464013</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1717790464013</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1717825455414</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1717825455414</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1717826120304</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1717826120304</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1717856390764</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1717856390764</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1717857097723</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1717857097723</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1718795242510</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1718795242510</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1720430056726</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1720430056727</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1720430360911</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1720430360911</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1724055144129</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1724055144129</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1724758415862</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1724758415862</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1725036976516</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1725036976517</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1725441043709</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1725441043709</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Решение" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решение" />
+  </component>
+</project>
