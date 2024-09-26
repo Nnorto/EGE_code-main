@@ -6,4 +6,4 @@ for ad in net:
     if ad2.count('1') % 5 != 0:
         c += 1
 
-print(c)
+print(c, net.num_addresses)

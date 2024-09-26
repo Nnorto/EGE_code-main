@@ -1,6 +1,14 @@
-print('x y z w')
-for x in range(2):
-    for y in range(2):
-        for z in range(2):
-           for w in range(2):
-                   print(x, y, z, w)
+from turtle import *
+tracer(0)
+left(90) # ось ординат
+
+screensize(2000, 2000)
+c = 50
+for x in range(7):
+    forward(c*10)
+    right(120)
+
+
+
+update()
+exitonclick()
