@@ -1,5 +1,5 @@
 f = open('файлы/KIM_0016473286_9')
-index = 1
+index = 0
 res = 0
 for i in f:
     a = list(map(int, i.split()))
