@@ -1,14 +1,9 @@
-from turtle import *
-tracer(0)
-left(90) # ось ординат
-
-screensize(2000, 2000)
-c = 50
-for x in range(7):
-    forward(c*10)
-    right(120)
-
-
-
-update()
-exitonclick()
+t_c1 = int(input())
+t_m1 = int(input())
+t_s1 = int(input())
+t_c2 = int(input())
+t_m2 = int(input())
+t_s2 = int(input())
+k = (t_c1*3600) + t_m1 * 60 + t_s1
+r = (t_c2*3600) + t_m2 * 60 + t_s2
+print(r - k)

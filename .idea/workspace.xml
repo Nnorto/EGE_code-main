@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3de82368-9152-4c39-8653-cc32611ad622" name="Changes" comment="Решение">
-      <change beforePath="$PROJECT_DIR$/Разное/пирамида ебучая.py" beforeDir="false" afterPath="$PROJECT_DIR$/Разное/пирамида ебучая.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Разное/макс цифра в посл чисел без строк.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 задание/восьмибитная запись.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 задание/восьмибитная запись.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,118 +55,124 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1 куча короткий.executor": "Run",
-    "Python.11 задание.executor": "Run",
-    "Python.12 задание.executor": "Run",
-    "Python.12-ричная запись.executor": "Run",
-    "Python.13 задание.executor": "Run",
-    "Python.14 НОВОЕ.executor": "Run",
-    "Python.14 задание.executor": "Run",
-    "Python.15 xy.executor": "Run",
-    "Python.15 задание.executor": "Run",
-    "Python.15.executor": "Run",
-    "Python.16 jopa.executor": "Run",
-    "Python.16 задание.executor": "Run",
-    "Python.16 сумма с картинки.executor": "Run",
-    "Python.16.executor": "Run",
-    "Python.17 ИЗИ.executor": "Run",
-    "Python.17 задание.executor": "Run",
-    "Python.19-21 задание.executor": "Run",
-    "Python.19-21 уменьшение.executor": "Run",
-    "Python.19-21.executor": "Run",
-    "Python.2 задание.executor": "Run",
-    "Python.2.executor": "Run",
-    "Python.22 ГОД бидоны файл А.executor": "Run",
-    "Python.22 ГОД бидоны файл Б.executor": "Run",
-    "Python.22 резерв термоконтейнеры А.executor": "Run",
-    "Python.22 резерв термоконтейнеры Б.executor": "Run",
-    "Python.23 демка 2025.executor": "Run",
-    "Python.23 задание.executor": "Run",
-    "Python.23 не более 2-х умножений.executor": "Run",
-    "Python.24 два способа.executor": "Run",
-    "Python.24 еще пример.executor": "Run",
-    "Python.24 задание.executor": "Run",
-    "Python.24 изи.executor": "Run",
-    "Python.24.executor": "Run",
-    "Python.25 bin.executor": "Run",
-    "Python.25 задание.executor": "Run",
-    "Python.25 маски 2025 демо.executor": "Run",
-    "Python.25 маски егэ 2022.executor": "Run",
-    "Python.25.executor": "Run",
-    "Python.26 3,14ЗДЕЦ.executor": "Run",
-    "Python.27 2б статика сумма чисел кратна 24.executor": "Run",
-    "Python.27 2б сумма четн а произв дел на 7 и индекс не менее 5.executor": "Run",
-    "Python.27 2б тюрьма индекс не меньше 5 и прзв кр 13.executor": "Run",
-    "Python.27 A.executor": "Run",
-    "Python.27 B.executor": "Run",
-    "Python.27 досрок 2024 B.executor": "Run",
-    "Python.27 досрок 2024.executor": "Run",
-    "Python.27 отриц послед.executor": "Run",
-    "Python.5 задание.executor": "Run",
-    "Python.5.5.executor": "Run",
-    "Python.5.executor": "Run",
-    "Python.6 задание.executor": "Run",
-    "Python.6.executor": "Run",
-    "Python.8 егэ 2023 числа в 9сс.executor": "Run",
-    "Python.8 задание.executor": "Run",
-    "Python.8 каждую буква ровно 1 раз.executor": "Run",
-    "Python.8.executor": "Run",
-    "Python.9 задание.executor": "Run",
-    "Python.9.executor": "Run",
-    "Python.TEST.executor": "Run",
-    "Python.Tets 27.executor": "Run",
-    "Python.any и all.executor": "Run",
-    "Python.m+a%n == 0.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.Демо 2025.executor": "Run",
-    "Python.Досрок 2024.executor": "Run",
-    "Python.ЕГЭ 2021 МАКСИМАЛЬНАЯ ПРЕФ СУММА И МАКС ДЛИНА.executor": "Run",
-    "Python.ЕГЭ 2023 ДОСРОК.executor": "Run",
-    "Python.ЕГЭ 2024 (1).executor": "Run",
-    "Python.ЕГЭ 2024 числа 9сс.executor": "Run",
-    "Python.ЕГЭ 2024.executor": "Run",
-    "Python.МЕТОД ЧАСТИЧНЫХ СУММ.executor": "Run",
-    "Python.Метод двух указателей.executor": "Run",
-    "Python.Парковки для автомобилей и микроавтобусов.executor": "Run",
-    "Python.Ровно одна команда умножения.executor": "Run",
-    "Python.больше четных чем нечетных.executor": "Run",
-    "Python.векторное произведение повороты.executor": "Run",
-    "Python.дан адрес и адрес сети найти наиб количество адресов в сети.executor": "Run",
-    "Python.дан адрес компа и маска найти номер компа.executor": "Run",
-    "Python.демо 2025.executor": "Run",
-    "Python.егэ 2017.executor": "Run",
-    "Python.егэ 2021 перфиксные суммы и длины.executor": "Run",
-    "Python.егэ 2023.executor": "Run",
-    "Python.изи.executor": "Run",
-    "Python.колич пар произв кратно 14.executor": "Run",
-    "Python.метод половинного деления.executor": "Run",
-    "Python.мкад 109 км остатки круговая трасса.executor": "Run",
-    "Python.много способов решить 15 на дел и другие типы.executor": "Run",
-    "Python.наиб возм занчение 3 байта маски.executor": "Run",
-    "Python.не более 2-х раз.executor": "Run",
-    "Python.не более 4-х четных чисел.executor": "Run",
-    "Python.опять dell.executor": "Run",
-    "Python.отрезки которые не решаются.executor": "Run",
-    "Python.пары чисел не дел на 4.executor": "Run",
-    "Python.пирамида ебучая.executor": "Run",
-    "Python.предпоследняя команда 1.executor": "Run",
-    "Python.проверка.executor": "Run",
-    "Python.произв не менее 5 подряд идущих чисел.executor": "Run",
-    "Python.простое число.executor": "Run",
-    "Python.тройки.executor": "Run",
-    "Python.увелич каждый разряд.executor": "Run",
-    "Python.файл А бидоны но уже с отступом.executor": "Run",
-    "Python.файл Б бидоны но уже с отступами.executor": "Run",
-    "Python.чет из егэ 2024.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/lucky/PycharmProjects/EGE_code-main",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1 куча короткий.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12-ричная запись.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14 НОВОЕ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15 xy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16 jopa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16 сумма с картинки.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17 ИЗИ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19-21 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19-21 уменьшение.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19-21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2023_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22 ГОД бидоны файл А.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22 ГОД бидоны файл Б.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22 резерв термоконтейнеры А.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22 резерв термоконтейнеры Б.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23 демка 2025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23 не более 2-х умножений.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24 два способа.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24 еще пример.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24 изи.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25 bin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25 маски 2025 демо.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25 маски егэ 2022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25.executor&quot;: &quot;Run&quot;,
+    &quot;Python.26 3,14ЗДЕЦ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27 2б статика сумма чисел кратна 24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27 2б сумма четн а произв дел на 7 и индекс не менее 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27 2б тюрьма индекс не меньше 5 и прзв кр 13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27 A.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27 B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27 досрок 2024 B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27 досрок 2024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27 отриц послед.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.7 егэ2023 осн.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.8 2023 3cc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8 егэ 2023 числа в 9сс.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8 каждую буква ровно 1 раз.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8 согласная перед о.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TEST.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tets 27.executor&quot;: &quot;Run&quot;,
+    &quot;Python.any и all.executor&quot;: &quot;Run&quot;,
+    &quot;Python.m+a%n == 0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Демо 2025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Досрок 2024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ЕГЭ 2021 МАКСИМАЛЬНАЯ ПРЕФ СУММА И МАКС ДЛИНА.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ЕГЭ 2023 ДОСРОК.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ЕГЭ 2024 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.ЕГЭ 2024 числа 9сс.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ЕГЭ 2024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.МЕТОД ЧАСТИЧНЫХ СУММ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Метод двух указателей.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Парковки для автомобилей и микроавтобусов.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ровно одна команда умножения.executor&quot;: &quot;Run&quot;,
+    &quot;Python.больше четных чем нечетных.executor&quot;: &quot;Run&quot;,
+    &quot;Python.векторное произведение повороты.executor&quot;: &quot;Run&quot;,
+    &quot;Python.восьмибитная запись.executor&quot;: &quot;Run&quot;,
+    &quot;Python.дан адрес и адрес сети найти наиб количество адресов в сети.executor&quot;: &quot;Run&quot;,
+    &quot;Python.дан адрес компа и маска найти номер компа.executor&quot;: &quot;Run&quot;,
+    &quot;Python.демо 2025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.егэ 2017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.егэ 2021 перфиксные суммы и длины.executor&quot;: &quot;Run&quot;,
+    &quot;Python.егэ 2023 опять ср знач не повт чисел.executor&quot;: &quot;Run&quot;,
+    &quot;Python.егэ 2023.executor&quot;: &quot;Run&quot;,
+    &quot;Python.изи.executor&quot;: &quot;Run&quot;,
+    &quot;Python.колич пар произв кратно 14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.метод половинного деления.executor&quot;: &quot;Run&quot;,
+    &quot;Python.мкад 109 км остатки круговая трасса.executor&quot;: &quot;Run&quot;,
+    &quot;Python.много способов решить 15 на дел и другие типы.executor&quot;: &quot;Run&quot;,
+    &quot;Python.наиб возм занчение 3 байта маски.executor&quot;: &quot;Run&quot;,
+    &quot;Python.не более 2-х раз.executor&quot;: &quot;Run&quot;,
+    &quot;Python.не более 4-х четных чисел.executor&quot;: &quot;Run&quot;,
+    &quot;Python.опять dell.executor&quot;: &quot;Run&quot;,
+    &quot;Python.отрезки которые не решаются.executor&quot;: &quot;Run&quot;,
+    &quot;Python.пары чисел не дел на 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.пирамида ебучая.executor&quot;: &quot;Run&quot;,
+    &quot;Python.предпоследняя команда 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.проверка.executor&quot;: &quot;Run&quot;,
+    &quot;Python.произв не менее 5 подряд идущих чисел.executor&quot;: &quot;Run&quot;,
+    &quot;Python.простое число.executor&quot;: &quot;Run&quot;,
+    &quot;Python.тройки.executor&quot;: &quot;Run&quot;,
+    &quot;Python.увелич каждый разряд.executor&quot;: &quot;Run&quot;,
+    &quot;Python.файл А бидоны но уже с отступом.executor&quot;: &quot;Run&quot;,
+    &quot;Python.файл Б бидоны но уже с отступами.executor&quot;: &quot;Run&quot;,
+    &quot;Python.чет из егэ 2024.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lucky/PycharmProjects/EGE_code-main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\ЕГЭ 2023" />
@@ -180,8 +189,8 @@
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\27 задание" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.пирамида ебучая">
-    <configuration name="пирамида ебучая" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="егэ 2023 опять ср знач не повт чисел" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,11 +199,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Разное" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9 задание (Да прогой и че)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Разное/пирамида ебучая.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9 задание (Да прогой и че)/егэ 2023 опять ср знач не повт чисел.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +212,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="дан адрес компа и маска найти номер компа" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="восьмибитная запись" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,11 +221,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13 задание" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5 задание" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13 задание/дан адрес компа и маска найти номер компа.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 задание/восьмибитная запись.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,7 +234,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11 задание" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5.7 егэ2023 осн" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,11 +243,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Демо 2025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5 задание" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Демо 2025/11 задание.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 задание/5.7 егэ2023 осн.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,7 +256,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13 задание" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5.8 2023 3cc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,11 +265,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Демо 2025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5 задание" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Демо 2025/13 задание.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 задание/5.8 2023 3cc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,11 +302,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.пирамида ебучая" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.11 задание" />
-        <item itemvalue="Python.13 задание" />
-        <item itemvalue="Python.дан адрес компа и маска найти номер компа" />
+        <item itemvalue="Python.5.7 егэ2023 осн" />
+        <item itemvalue="Python.5.8 2023 3cc" />
+        <item itemvalue="Python.восьмибитная запись" />
+        <item itemvalue="Python.егэ 2023 опять ср знач не повт чисел" />
       </list>
     </recent_temporary>
   </component>
@@ -600,7 +609,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727375094053</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1727375635576</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1727375635576</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1727713236248</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1727713236248</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

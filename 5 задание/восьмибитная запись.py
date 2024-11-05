@@ -7,5 +7,5 @@ for n in range(0, 255 + 1):
         else:
             s += '0'
     r = int(s, 2)
-    if (r - n) == 99:
+    if (r - n) == 113:
         print(n)
