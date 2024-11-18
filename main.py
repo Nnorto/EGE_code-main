@@ -1,9 +1,13 @@
-t_c1 = int(input())
-t_m1 = int(input())
-t_s1 = int(input())
-t_c2 = int(input())
-t_m2 = int(input())
-t_s2 = int(input())
-k = (t_c1*3600) + t_m1 * 60 + t_s1
-r = (t_c2*3600) + t_m2 * 60 + t_s2
-print(r - k)
+from itertools import product
+count = 0
+alf = '012345678'
+for x in product(alf, alf, alf, alf, alf):
+    s = ''.join(x)
+    if s[0] != '0':
+        s = s.replace('2', '*').\
+            replace('3', '*').\
+            replace('4', '*').\
+            replace('5', '*')
+        if s.count('6') == 1 and '*6' not in s and '6*' not in s:
+            count += 1
+print(count)

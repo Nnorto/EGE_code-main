@@ -12,4 +12,3 @@ for n in range(1, 10**10):
     if s > 10**6:
         print(n, s)
         break
-

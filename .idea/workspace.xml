@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3de82368-9152-4c39-8653-cc32611ad622" name="Changes" comment="Решение">
-      <change afterPath="$PROJECT_DIR$/Разное/макс цифра в посл чисел без строк.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23 задание/не содержит более 2 команд деления нацело на 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5 задание/восьмибитная запись.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 задание/восьмибитная запись.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 задание/минимальное значение Х.py" beforeDir="false" afterPath="$PROJECT_DIR$/13 задание/минимальное значение Х.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16 задание/16 global 18 задание с урока.py" beforeDir="false" afterPath="$PROJECT_DIR$/16 задание/16 global 18 задание с урока.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,6 +125,7 @@
     &quot;Python.any и all.executor&quot;: &quot;Run&quot;,
     &quot;Python.m+a%n == 0.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.x в IP-адресе.executor&quot;: &quot;Run&quot;,
     &quot;Python.Демо 2025.executor&quot;: &quot;Run&quot;,
     &quot;Python.Досрок 2024.executor&quot;: &quot;Run&quot;,
     &quot;Python.ЕГЭ 2021 МАКСИМАЛЬНАЯ ПРЕФ СУММА И МАКС ДЛИНА.executor&quot;: &quot;Run&quot;,
@@ -148,6 +150,7 @@
     &quot;Python.изи.executor&quot;: &quot;Run&quot;,
     &quot;Python.колич пар произв кратно 14.executor&quot;: &quot;Run&quot;,
     &quot;Python.метод половинного деления.executor&quot;: &quot;Run&quot;,
+    &quot;Python.минимальное значение Х.executor&quot;: &quot;Run&quot;,
     &quot;Python.мкад 109 км остатки круговая трасса.executor&quot;: &quot;Run&quot;,
     &quot;Python.много способов решить 15 на дел и другие типы.executor&quot;: &quot;Run&quot;,
     &quot;Python.наиб возм занчение 3 байта маски.executor&quot;: &quot;Run&quot;,
@@ -190,7 +193,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.main">
-    <configuration name="егэ 2023 опять ср знач не повт чисел" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="предпоследняя команда 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,11 +202,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9 задание (Да прогой и че)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/23 задание" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9 задание (Да прогой и че)/егэ 2023 опять ср знач не повт чисел.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/23 задание/предпоследняя команда 1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="восьмибитная запись" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="минимальное значение Х" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,11 +224,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5 задание" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13 задание" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 задание/восьмибитная запись.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13 задание/минимальное значение Х.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,28 +259,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5.8 2023 3cc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="EGE_code-main" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5 задание" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 задание/5.8 2023 3cc.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
@@ -300,13 +281,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="x в IP-адресе" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EGE_code-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13 задание" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13 задание/x в IP-адресе.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.предпоследняя команда 1" />
+        <item itemvalue="Python.x в IP-адресе" />
+        <item itemvalue="Python.минимальное значение Х" />
         <item itemvalue="Python.5.7 егэ2023 осн" />
-        <item itemvalue="Python.5.8 2023 3cc" />
-        <item itemvalue="Python.восьмибитная запись" />
-        <item itemvalue="Python.егэ 2023 опять ср знач не повт чисел" />
       </list>
     </recent_temporary>
   </component>
@@ -625,7 +628,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727713236248</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1730803871225</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1730803871225</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
