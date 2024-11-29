@@ -1,13 +1,10 @@
-from itertools import product
-count = 0
+from itertools import *
 alf = '012345678'
-for x in product(alf, alf, alf, alf, alf):
+c = 0
+for x in product(alf, repeat=5):
     s = ''.join(x)
-    if s[0] != '0':
-        s = s.replace('2', '*').\
-            replace('3', '*').\
-            replace('4', '*').\
-            replace('5', '*')
-        if s.count('6') == 1 and '*6' not in s and '6*' not in s:
-            count += 1
-print(count)
+    if s[0] != '0' and s.count('6') == 1:
+        s = s.replace('2', '*').replace('3', '*').replace('4', '*').replace('5', '*')
+        if '*6' not in s and '6*' not in s:
+            c += 1
+print(c)
