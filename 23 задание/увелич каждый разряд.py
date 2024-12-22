@@ -15,10 +15,6 @@ def f(x, y):
         return 0
     if x == y:
         return 1
-
-    if '9' == str(x)[0]:
-        return f(x + 1, y)
-
     if '9' == str(x)[1]:
         return f(x + 10, y) + f(x + 1, y)
 

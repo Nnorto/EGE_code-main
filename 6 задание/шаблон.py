@@ -1,19 +1,21 @@
 from turtle import *
-tracer(0)
-left(90)
-screensize(3000, 3000)
-const = 30
 
-# алгоритм
+# Делаем обязательно
+tracer(0)  # скорость (0 - максимальная скорость)
+screensize(1000, 1000)  # масштаб
+left(90)  # надо повернуть вдоль оси у (ординат)
+c = 20  # константа чтобы увеличить рисунок (zoom)
+
+# Алгоритм задания
 for i in range(7):
-    forward(10*const)
+    forward(10 * c)
     right(120)
 
-up()
+# Делаем обязательно
+up()  # поднять хвост
 for x in range(-20, 20):
     for y in range(-20, 20):
-        goto(x*const, y*const)
-        dot(5, "red")
-
-update()
-exitonclick()
+        goto(x * c, y * c)  # телепортирует к координате (x, y)
+        dot(4, 'red')  # ставим точку 4 - размер, цвет
+update()  # нужно для tracer(0)
+exitonclick()  # нужно только для пайчарма чтобы не закрывало окно
