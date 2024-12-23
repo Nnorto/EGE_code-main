@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3de82368-9152-4c39-8653-cc32611ad622" name="Changes" comment="Решение">
-      <change afterPath="$PROJECT_DIR$/13 задание/комбинаторика демо 2025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23 задание/не содержит 2 подряд действий 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23 задание/увеличь число десятков на 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Демо 2025/13 задание комбинаторика.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17 задание/Демо ЕГЭ 2025.py" beforeDir="false" afterPath="$PROJECT_DIR$/17 задание/Демо ЕГЭ 2025.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/23 задание/увелич каждый разряд.py" beforeDir="false" afterPath="$PROJECT_DIR$/23 задание/увелич каждый разряд.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 задание/шаблон.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 задание/шаблон.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +36,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/23 задание/23 ЕГКР 21_12_2024.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/main.py" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
@@ -92,6 +86,7 @@
     &quot;Python.22 ГОД бидоны файл Б.executor&quot;: &quot;Run&quot;,
     &quot;Python.22 резерв термоконтейнеры А.executor&quot;: &quot;Run&quot;,
     &quot;Python.22 резерв термоконтейнеры Б.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23 ЕГКР 21_12_2024.executor&quot;: &quot;Run&quot;,
     &quot;Python.23 демка 2025.executor&quot;: &quot;Run&quot;,
     &quot;Python.23 задание.executor&quot;: &quot;Run&quot;,
     &quot;Python.23 не более 2-х умножений.executor&quot;: &quot;Run&quot;,
@@ -209,7 +204,7 @@
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\27 задание" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.25 маски егэ 2022">
+  <component name="RunManager" selected="Python.Демо 2025">
     <configuration name="не содержит более 2 команд деления нацело на 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
@@ -254,6 +249,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Демо 2025" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EGE_code-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19-21 задания" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19-21 задания/Демо 2025.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="23 ЕГКР 21_12_2024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EGE_code-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/23 задание" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/23 задание/23 ЕГКР 21_12_2024.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="25 маски егэ 2022" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
@@ -276,57 +315,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8 егэ 2023 числа в 9сс" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="EGE_code-main" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8 задание" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8 задание/8 егэ 2023 числа в 9сс.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="8 егэ 2023" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="EGE_code-main" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8 задание" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8 задание/8 егэ 2023.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Демо 2025" />
+        <item itemvalue="Python.23 ЕГКР 21_12_2024" />
         <item itemvalue="Python.25 маски егэ 2022" />
         <item itemvalue="Python.Демо ЕГЭ 2025" />
         <item itemvalue="Python.не содержит более 2 команд деления нацело на 2" />
-        <item itemvalue="Python.8 егэ 2023 числа в 9сс" />
-        <item itemvalue="Python.8 егэ 2023" />
       </list>
     </recent_temporary>
   </component>
@@ -685,7 +680,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732909324133</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1734864197477</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1734864197477</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1734864242189</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1734864242189</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
