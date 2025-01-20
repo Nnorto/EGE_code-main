@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3de82368-9152-4c39-8653-cc32611ad622" name="Changes" comment="Решение">
-      <change afterPath="$PROJECT_DIR$/25 задание/25 маски и простые числа сложное.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 задание/Произведение 3-х различных простых делителей.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9 задание (Да прогой и че)/9 ЕГЭКР  ср макс и мин среди повт чисел меньше неповт числа.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9 задание (Да прогой и че)/9 задание Демо 2025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9 задание (Да прогой и че)/файлы/9-4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Демо 2025/14 19cc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГЭ 2024 СЛИВ 2 день/14 задание кол-во цифр больше 9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6 задание/6 ЕГКР 2024 ОБЪЕДИНЕНИЕ.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/19-21 задания/19-21 ограничение сверху.py" beforeDir="false" afterPath="$PROJECT_DIR$/19-21 задания/19-21 ограничение сверху.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6 задание/О задании.md" beforeDir="false" afterPath="$PROJECT_DIR$/6 задание/О задании.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГЭ 2024 СЛИВ 1 день/9.py" beforeDir="false" afterPath="$PROJECT_DIR$/ЕГЭ 2024 СЛИВ 1 день/9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +77,7 @@
     "Python.16 задание.executor": "Run",
     "Python.16 сумма с картинки.executor": "Run",
     "Python.16.executor": "Run",
+    "Python.17 2сс количество 1 равно 2.executor": "Run",
     "Python.17 ИЗИ.executor": "Run",
     "Python.17 задание с урока кол-во звезд.executor": "Run",
     "Python.17 задание.executor": "Run",
@@ -219,29 +213,7 @@
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\27 задание" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.9 ЕГЭКР  ср макс и мин среди повт чисел меньше неповт числа">
-    <configuration name="14 задание кол-во цифр больше 9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="EGE_code-main" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ЕГЭ 2024 СЛИВ 2 день" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ЕГЭ 2024 СЛИВ 2 день/14 задание кол-во цифр больше 9.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.17 2сс количество 1 равно 2">
     <configuration name="14 19cc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
@@ -256,6 +228,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Демо 2025/14 19cc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="17 2сс количество 1 равно 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EGE_code-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17 задание" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17 задание/17 2сс количество 1 равно 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,11 +326,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.17 2сс количество 1 равно 2" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.9 ЕГЭКР  ср макс и мин среди повт чисел меньше неповт числа" />
         <item itemvalue="Python.9 задание Демо 2025" />
         <item itemvalue="Python.14 19cc" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.14 задание кол-во цифр больше 9" />
       </list>
     </recent_temporary>
   </component>
@@ -719,7 +713,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734989450630</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1737039411575</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1737039411575</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

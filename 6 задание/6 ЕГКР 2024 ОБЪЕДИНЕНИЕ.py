@@ -1,25 +1,25 @@
 from turtle import *
-tracer(3) # самая большая скорость
+tracer(0) # самая большая скорость
 screensize(3000, 3000) # ползунки
 left(90) # поворачиваем черепаху вдоль оси у
-c = 25 # делаем рисунок больше
+c = 30 # делаем рисунок больше
 
 # алгоритм из задания
-for x in range(9):
-    fd(22*c)
-    rt(90)
-    fd(6*c)
-    rt(90)
+for x in range(2):
+    fd(5*c)
+    lt(90)
+    bk(13*c)
+    lt(90)
 up()
-fd(1*c)
+bk(10*c)
 rt(90)
-fd(5*c)
+fd(9*c)
 lt(90)
 down()
-for x in range(9):
-    fd(53 * c)
+for x in range(2):
+    fd(11*c)
     rt(90)
-    fd(75 * c)
+    fd(7*c)
     rt(90)
 # алгоритм для точек
 up() # поднять хвост
