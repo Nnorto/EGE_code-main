@@ -5,7 +5,7 @@ for ad in net:  # бежим по адресам в сети
     index += 1
     if ad == ip_address('206.158.124.67'):  # если адрес = нашему, то заебись!
         print(index)
-        break
+
 setb = int(net.network_address) # setb - сеть
 komp = int(ip_address('206.158.124.67'))
 print(komp - setb)
