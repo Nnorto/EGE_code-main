@@ -4,7 +4,7 @@ max_sum = -131212311231231312
 
 for i in range(len(a) - 1):
     for j in range(i + 1, len(a)):
-        if a[j] % 3 == 0 or a[i ] % 3 == 0:
+        if a[j] % 3 == 0 or a[i] % 3 == 0:
             count += 1
             max_sum = max(max_sum, a[i] + a[j])
 
