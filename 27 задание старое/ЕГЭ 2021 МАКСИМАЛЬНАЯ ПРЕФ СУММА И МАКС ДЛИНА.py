@@ -1,4 +1,4 @@
-f = open('27 задание/27 файлы/27_A_префикс 263.txt')
+f = open('27 задание старое/27 файлы/27_A_префикс 263.txt')
 n = int(f.readline())
 a = [int(x) for x in f]
 k = 100
@@ -24,7 +24,7 @@ for i in range(len(a)):
 print(maxs, maxd)
 
 # ИЛИ
-f = open('27 задание/27 файлы/27_A_префикс 263.txt')
+f = open('27 задание старое/27 файлы/27_A_префикс 263.txt')
 n = int(f.readline())
 k = 2
 a = [int(x) for x in f]

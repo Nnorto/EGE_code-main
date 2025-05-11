@@ -1,4 +1,4 @@
-f = open('27 задание/27 файлы/27_B.txt')
+f = open('27 задание старое/27 файлы/27_B.txt')
 n = int(f.readline())
 a = [int(x) for x in f]
 k = 94
@@ -12,7 +12,7 @@ for i in range(len(a)):
 
 print(mins)
 
-f = open('27 задание/27 файлы/27_B.txt')
+f = open('27 задание старое/27 файлы/27_B.txt')
 n = int(f.readline())
 a = [int(x) for x in f]
 k = 94
@@ -28,7 +28,7 @@ for i in range(len(a)):
 print(mins)
 
 
-f = open('27 задание/27 файлы/27_B.txt')
+f = open('27 задание старое/27 файлы/27_B.txt')
 n = int(f.readline())
 a = [int(x) for x in f]
 k = 94

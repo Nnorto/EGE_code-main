@@ -1,5 +1,5 @@
 from math import *
-f = open('27 задание/27 файлы/27B_3.txt')
+f = open('27 задание старое/27 файлы/27B_3.txt')
 n, k, m = map(int, f.readline().split())
 a = [] # ПОМЕНЯТЬ!!!!
 for i in range(n):

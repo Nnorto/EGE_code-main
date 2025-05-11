@@ -5,32 +5,112 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3de82368-9152-4c39-8653-cc32611ad622" name="Changes" comment="Решение">
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/10 задание.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/11 задание.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/17_19249.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/19-21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/2 задание.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/24_19254.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/27a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/27a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/27b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/27b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/5 задание.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/6 задание.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/8 задание.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21_12_2024/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14 задание/Задания из домашки/домашка 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14 задание/Задания из домашки/домашка 10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14 задание/Задания из домашки/домашка 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14 задание/Задания из домашки/домашка 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14 задание/Задания из домашки/домашка 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14 задание/Задания из домашки/домашка 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14 задание/Задания из домашки/домашка 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14 задание/Задания из домашки/домашка 7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14 задание/Задания из домашки/домашка 8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14 задание/Задания из домашки/домашка 9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27 Задание 2025/27 dbscan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27 Задание 2025/27 АНОМАЛИИ НОМЕР 20497 КЕГЭ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27 Задание 2025/27 досрок 2025 DBScan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27 Задание 2025/файлы/27.19.A_20497.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27 Задание 2025/файлы/27.19.B_20497.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27 Задание 2025/файлы/27_A_21425.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27 Задание 2025/файлы/27_A_21932.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27 Задание 2025/файлы/27_B_21425.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27 Задание 2025/файлы/27_B_21932.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9 задание (Да прогой и че)/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9 задание (Да прогой и че)/ЕГКР 2024 12 21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9 задание (Да прогой и че)/нет повт чисел.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9 задание (Да прогой и че)/только одно числ встр 3 ср неповт меньше повт.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9 задание (Да прогой и че)/числа располож в порядке неубыв.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9 задание (Да прогой и че)/число повт четырежды.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19-21 задания/19-21 ограничение сверху.py" beforeDir="false" afterPath="$PROJECT_DIR$/19-21 задания/19-21 ограничение сверху.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/22 ГОД бидоны файл А.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/22 ГОД бидоны файл А.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/22 ГОД бидоны файл Б.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/22 ГОД бидоны файл Б.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/22 резерв термоконтейнеры А.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/22 резерв термоконтейнеры А.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/22 резерв термоконтейнеры Б.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/22 резерв термоконтейнеры Б.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 2б призв дел на 29 и разн индектов МЕНЕЕ 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 2б призв дел на 29 и разн индектов МЕНЕЕ 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 2б произв оканчивается на 1  и индексы не менее 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 2б произв оканчивается на 1  и индексы не менее 5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 2б статика сумма чисел кратна 24.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 2б статика сумма чисел кратна 24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 2б сумма четн а произв дел на 7 и индекс не менее 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 2б сумма четн а произв дел на 7 и индекс не менее 5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 2б тюрьма индекс не меньше 5 и прзв кр 13.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 2б тюрьма индекс не меньше 5 и прзв кр 13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 досрок 2024 A.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 досрок 2024 A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 досрок 2024 B.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 досрок 2024 B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 на 2 б сумма нечет.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 на 2 б сумма нечет.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 пример" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 пример" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27-29a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27-29a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27-29b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27-29b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27-A пары.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27-A пары.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27-A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27-A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27-A1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27-A1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27-B пары.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27-B пары.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27-B.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27-B.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27-B1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27-B1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27A_15342.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27A_15342.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27A_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27A_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27A_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27A_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27B_15342.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27B_15342.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27B_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27B_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27B_2023резерв.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27B_2023резерв.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27B_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27B_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27_A_1_day.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27_A_1_day.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27_A_2_day.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27_A_2_day.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27_A_rezerv.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27_A_rezerv.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27_A_префикс 263.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27_A_префикс 263.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27_B.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27_B.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27_B_1_day-2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27_B_1_day-2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27_B_1_day.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27_B_1_day.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27_B_префикс 263 и мин длина макс суммы.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27_B_префикс 263 и мин длина макс суммы.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27v03_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27v03_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27v03_B.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27v03_B.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27v05_A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27v05_A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/27 файлы/27v05_B.txt" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/27 файлы/27v05_B.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/2б произв дел на 14 а индекс не менее 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/2б произв дел на 14 а индекс не менее 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/k послед где сумма кратна 100 и более 90 элем.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/k послед где сумма кратна 100 и более 90 элем.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/ЕГЭ 2021 МАКСИМАЛЬНАЯ ПРЕФ СУММА И МАКС ДЛИНА.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/ЕГЭ 2021 МАКСИМАЛЬНАЯ ПРЕФ СУММА И МАКС ДЛИНА.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/ЕГЭ 2023 ДОСРОК.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/ЕГЭ 2023 ДОСРОК.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/МЕТОД ЧАСТИЧНЫХ СУММ.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/МЕТОД ЧАСТИЧНЫХ СУММ.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/динамика сумма эл нечет найти колич.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/динамика сумма эл нечет найти колич.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/досрок 2023 похож наиб четн сумма двух элем и индекс не менее 7.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/досрок 2023 похож наиб четн сумма двух элем и индекс не менее 7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/егэ 2017.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/егэ 2017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/егэ 2018.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/егэ 2018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/егэ 2020.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/егэ 2020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/егэ 2021 перфиксные суммы и длины.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/егэ 2021 перфиксные суммы и длины.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/егэ 2021.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/егэ 2021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/егэ 2023 день 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/егэ 2023 день 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/егэ 2023.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/егэ 2023.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/к пар где сумма кратна 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/к пар где сумма кратна 5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/колич пар произв кратно 14.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/колич пар произв кратно 14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/колич пар произв кратно 19 (простое число).py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/колич пар произв кратно 19 (простое число).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/колич пар произв не кратно 14.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/колич пар произв не кратно 14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/кратно 26 произведение 2балла.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/кратно 26 произведение 2балла.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/макс сум в кот колич нечет элем крат 11.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/макс сум в кот колич нечет элем крат 11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/мин сумма где сумма эл кратна 94.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/мин сумма где сумма эл кратна 94.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/минимальная четная сумма пар элементов кратная 94 27 на 2балла.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/минимальная четная сумма пар элементов кратная 94 27 на 2балла.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/пары чисел не дел на 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/пары чисел не дел на 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/перфиксные суммы.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/перфиксные суммы.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/преф суммы количество.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/преф суммы количество.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/пробирки.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/пробирки.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/произв не кратно 26 2 балла.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/произв не кратно 26 2 балла.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/разность и сумма чисел кратна 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/разность и сумма чисел кратна 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/сумма эл кратна 91 2б.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/сумма эл кратна 91 2б.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/тройки.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/тройки.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/файл А бидоны но уже с отступом.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/файл А бидоны но уже с отступом.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 задание/файл Б бидоны но уже с отступами.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 задание старое/файл Б бидоны но уже с отступами.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/9.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГЭ 2023/27 A.py" beforeDir="false" afterPath="$PROJECT_DIR$/ЕГЭ 2023/27 A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГЭ 2023/27 B.py" beforeDir="false" afterPath="$PROJECT_DIR$/ЕГЭ 2023/27 B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГЭ 2024 СЛИВ 2 день/27 B.py" beforeDir="false" afterPath="$PROJECT_DIR$/ЕГЭ 2024 СЛИВ 2 день/27 B.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +183,7 @@
     "Python.16 сумма с картинки.executor": "Run",
     "Python.16.executor": "Run",
     "Python.17 2сс количество 1 равно 2.executor": "Run",
+    "Python.17 ЕГКР 2024.executor": "Run",
     "Python.17 ИЗИ.executor": "Run",
     "Python.17 задание с урока кол-во звезд.executor": "Run",
     "Python.17 задание.executor": "Run",
@@ -140,8 +221,11 @@
     "Python.27 2б тюрьма индекс не меньше 5 и прзв кр 13.executor": "Run",
     "Python.27 A.executor": "Run",
     "Python.27 B.executor": "Run",
+    "Python.27 dbscan.executor": "Run",
+    "Python.27 АНОМАЛИИ НОМЕР 20497 КЕГЭ.executor": "Run",
     "Python.27 досрок 2024 B.executor": "Run",
     "Python.27 досрок 2024.executor": "Run",
+    "Python.27 досрок 2025 DBScan.executor": "Run",
     "Python.27 отриц послед.executor": "Run",
     "Python.27a.executor": "Run",
     "Python.27b.executor": "Run",
@@ -150,6 +234,7 @@
     "Python.5.7 егэ2023 осн.executor": "Run",
     "Python.5.8 2023 3cc.executor": "Run",
     "Python.5.executor": "Run",
+    "Python.6 ЕГКР 2024 ОБЪЕДИНЕНИЕ.executor": "Run",
     "Python.6 задание.executor": "Run",
     "Python.6.executor": "Run",
     "Python.8 ЕГКР 2024.executor": "Run",
@@ -175,6 +260,7 @@
     "Python.Демо 2025.executor": "Run",
     "Python.Демо ЕГЭ 2025.executor": "Run",
     "Python.Досрок 2024.executor": "Run",
+    "Python.ЕГКР 2024 12 21.executor": "Run",
     "Python.ЕГКР 2024 21 декабря.executor": "Run",
     "Python.ЕГЭ 2021 МАКСИМАЛЬНАЯ ПРЕФ СУММА И МАКС ДЛИНА.executor": "Run",
     "Python.ЕГЭ 2023 ДОСРОК.executor": "Run",
@@ -186,6 +272,7 @@
     "Python.МЕТОД ЧАСТИЧНЫХ СУММ.executor": "Run",
     "Python.Метод двух указателей.executor": "Run",
     "Python.Парковки для автомобилей и микроавтобусов.executor": "Run",
+    "Python.Пушка через черепаху.executor": "Run",
     "Python.Ровно одна команда умножения.executor": "Run",
     "Python.больше четных чем нечетных.executor": "Run",
     "Python.векторное произведение повороты.executor": "Run",
@@ -194,6 +281,16 @@
     "Python.дан адрес компа и маска найти номер компа.executor": "Run",
     "Python.демка 2024.executor": "Run",
     "Python.демо 2025.executor": "Run",
+    "Python.домашка 1.executor": "Run",
+    "Python.домашка 10.executor": "Run",
+    "Python.домашка 2.executor": "Run",
+    "Python.домашка 3.executor": "Run",
+    "Python.домашка 4.executor": "Run",
+    "Python.домашка 5.executor": "Run",
+    "Python.домашка 6.executor": "Run",
+    "Python.домашка 7.executor": "Run",
+    "Python.домашка 8.executor": "Run",
+    "Python.домашка 9.executor": "Run",
     "Python.егэ 2017.executor": "Run",
     "Python.егэ 2021 перфиксные суммы и длины.executor": "Run",
     "Python.егэ 2023 опять ср знач не повт чисел.executor": "Run",
@@ -208,6 +305,7 @@
     "Python.не более 2-х раз.executor": "Run",
     "Python.не более 4-х четных чисел.executor": "Run",
     "Python.не содержит более 2 команд деления нацело на 2.executor": "Run",
+    "Python.нет повт чисел.executor": "Run",
     "Python.опять dell.executor": "Run",
     "Python.отрезки которые не решаются.executor": "Run",
     "Python.пары чисел не дел на 4.executor": "Run",
@@ -224,31 +322,33 @@
     "Python.файл Б бидоны но уже с отступами.executor": "Run",
     "Python.чет из егэ 2024.executor": "Run",
     "Python.четверки и 7 сс.executor": "Run",
+    "Python.числа располож в порядке неубыв.executor": "Run",
+    "Python.число повт четырежды.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/lucky/PycharmProjects/EGE_code-main/ЕГКР 21_12_2024",
+    "last_opened_file_path": "C:/Users/lucky/PycharmProjects/EGE_code-main/27 Задание 2025/файлы",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\27 Задание 2025\файлы" />
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\9 задание (Да прогой и че)" />
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\14 задание\Задания из домашки" />
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\ЕГКР 21_12_2024" />
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\9 задание (Да прогой и че)\файлы" />
-      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\Демо 2025" />
-      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\ЕГЭ 2023" />
-      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\ЕГЭ 2024 СЛИВ 2 день" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\27 Задание 2025\файлы" />
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\17 задание\17 файлы" />
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\ЕГЭ 2023" />
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\26 задание\Файлы" />
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\27 задание\27 файлы" />
-      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\27 задание" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.14">
-    <configuration name="13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.27 досрок 2025 DBScan">
+    <configuration name="нет повт чисел" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -257,11 +357,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ЕГКР 21_12_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9 задание (Да прогой и че)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ЕГКР 21_12_2024/13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9 задание (Да прогой и че)/нет повт чисел.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,7 +370,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Произведение 3-х различных простых делителей" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -279,11 +379,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ЕГКР 21_12_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/25 задание" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ЕГКР 21_12_2024/14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/25 задание/Произведение 3-х различных простых делителей.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,7 +392,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17 ЕГКР 2024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -301,11 +401,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ЕГКР 21_12_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17 задание" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ЕГКР 21_12_2024/25.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17 задание/17 ЕГКР 2024.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -314,7 +414,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="27a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="27 АНОМАЛИИ НОМЕР 20497 КЕГЭ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -323,11 +423,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ЕГКР 21_12_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27 Задание 2025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ЕГКР 21_12_2024/27a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27 Задание 2025/27 АНОМАЛИИ НОМЕР 20497 КЕГЭ.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -336,7 +436,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="27b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="27 досрок 2025 DBScan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -345,11 +445,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ЕГКР 21_12_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27 Задание 2025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ЕГКР 21_12_2024/27b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27 Задание 2025/27 досрок 2025 DBScan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="27 dbscan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EGE_code-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27 Задание 2025" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27 Задание 2025/27 dbscan.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -360,11 +482,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.14" />
-        <item itemvalue="Python.13" />
-        <item itemvalue="Python.27a" />
-        <item itemvalue="Python.27b" />
-        <item itemvalue="Python.25" />
+        <item itemvalue="Python.27 досрок 2025 DBScan" />
+        <item itemvalue="Python.27 АНОМАЛИИ НОМЕР 20497 КЕГЭ" />
+        <item itemvalue="Python.27 dbscan" />
+        <item itemvalue="Python.Произведение 3-х различных простых делителей" />
+        <item itemvalue="Python.17 ЕГКР 2024" />
       </list>
     </recent_temporary>
   </component>
@@ -386,14 +508,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714663694668</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Решение">
-      <option name="closed" value="true" />
-      <created>1715022014259</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1715022014259</updated>
     </task>
     <task id="LOCAL-00005" summary="Решение">
       <option name="closed" value="true" />
@@ -779,7 +893,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740409999234</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Решение">
+      <option name="closed" value="true" />
+      <created>1740676508228</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1740676508229</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
