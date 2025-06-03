@@ -1,14 +1,45 @@
-from functools import *
-@lru_cache(None)
-def g(h):
-    if h>=211: return 'win'
-    m=[h+1,h+3,h*4]
-    if any(g(x) == 'win' for x in m): return 'p1'
-    if all(g(x) == 'p1' for x in m): return 'v1'
-    if any(g(x) == 'v1' for x in m): return 'p2'
-    if all(g(x) == 'p2' or g(x) == 'p1' for x in m): return 'v1orv2'
-    if any(g(x) == 'p2' for x in m): return 'v2'
-    if any(g(x) == 'v2' for x in m): return 'p3'
-for x in range(1,210+1):
-    if g(x) == 'p3':
-        print((g(x)),x)
+from random import random
+from turtle import *
+
+
+def oporno(cluster):
+    maxx = -10**10
+    maxy = -10**10
+    minx = 10**10
+    miny = 10**10
+    verx, niz, levo, pravo = 0, 0, 0, 0
+    for p in cluster:
+        x, y = p
+        if minx > x:
+            levo = p
+            minx = x
+        if maxx < x:
+            pravo = p
+            maxx = x
+        if miny > y:
+            niz = p
+            miny = y
+        if maxy < y:
+            verx = p
+            maxy = y
+    return [verx, niz, levo, pravo]
+a = [[6, 8], [-1, 7], [-4, 9], [3, 2], [7, 7], [2, 10]]
+tochki = [oporno(a)]
+
+tracer(0)
+up()
+c = 50
+screensize(10_000, 10_000)
+for x, y in a:
+    color = random(), random(), random()
+    goto(x * c, y * c)
+    dot(5, color)
+for p in tochki:
+    color = random(), random(), random()
+    for x,y in p:
+        goto(x*c, y*c)
+        dot(15, color)
+
+goto(12796391, 123123123)
+update()
+done()

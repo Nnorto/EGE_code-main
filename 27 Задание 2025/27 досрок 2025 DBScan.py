@@ -15,6 +15,7 @@ def get_cluster(p0):
         next_clusters = [get_cluster(p) for p in cluster]
         cluster += sum(next_clusters, [])
     return cluster
+
 summa = 0
 clusters = []
 while data:
