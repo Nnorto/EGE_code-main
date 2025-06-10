@@ -1,45 +1,14 @@
-from random import random
-from turtle import *
+def f(x, a1, a2):
+    q = 17 <= x <= 58
+    p = 29 <= x <= 81
+    a = a1 <= x <= a2
+    return (q) <= (((not (a)) and (not (p))) <= (not (q)))
 
+res = []
+d = [el for x in [17, 58, 29, 81] for el in [x-0.1, x, x+0.1]]
+for a1 in d:
+    for a2 in d:
+        if a2 > a1 and all(f(x, a1, a2) for x in d):
+            res.append(a2-a1)
 
-def oporno(cluster):
-    maxx = -10**10
-    maxy = -10**10
-    minx = 10**10
-    miny = 10**10
-    verx, niz, levo, pravo = 0, 0, 0, 0
-    for p in cluster:
-        x, y = p
-        if minx > x:
-            levo = p
-            minx = x
-        if maxx < x:
-            pravo = p
-            maxx = x
-        if miny > y:
-            niz = p
-            miny = y
-        if maxy < y:
-            verx = p
-            maxy = y
-    return [verx, niz, levo, pravo]
-a = [[6, 8], [-1, 7], [-4, 9], [3, 2], [7, 7], [2, 10]]
-tochki = [oporno(a)]
-
-tracer(0)
-up()
-c = 50
-screensize(10_000, 10_000)
-for x, y in a:
-    color = random(), random(), random()
-    goto(x * c, y * c)
-    dot(5, color)
-for p in tochki:
-    color = random(), random(), random()
-    for x,y in p:
-        goto(x*c, y*c)
-        dot(15, color)
-
-goto(12796391, 123123123)
-update()
-done()
+print(max(res))
