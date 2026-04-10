@@ -2,7 +2,7 @@ from math import dist
 from random import random
 from turtle import *
 
-f = open('27B.txt')
+f = open('27A.txt')
 
 data = []
 for s in f:

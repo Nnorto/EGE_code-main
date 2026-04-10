@@ -1,7 +1,7 @@
 f = open('Файлы/26stat2023apr.txt')
-n = int(f.readline())
-a = [-1]*80
-m = [-1]*20
+n, p_leg, p_abobus = [int(x) for x in f.readline().split()]
+a = [-1]*p_leg
+m = [-1]*p_abobus
 ts = []
 
 for s in f:

@@ -15,5 +15,3 @@ for A in range(16, 25): # A будем искать тут reversed потому
     if flag:
         print(A)
         break
-
-

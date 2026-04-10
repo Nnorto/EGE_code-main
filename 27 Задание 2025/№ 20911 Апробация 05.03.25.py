@@ -1,5 +1,5 @@
 from math import dist
-f = open('файлы/27_A_20911 (1).txt')
+f = open('файлы/27_B_20911 (1).txt')
 f.readline()
 data = []
 for s in f:

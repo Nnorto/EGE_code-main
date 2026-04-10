@@ -3,7 +3,7 @@ from math import dist
 from random import random
 from turtle import *
 
-f = open('27_105B.txt')
+f = open('27_105A.txt')
 
 data = []
 for s in f:

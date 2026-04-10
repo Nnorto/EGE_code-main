@@ -4,7 +4,7 @@ def g(h):
     m = [h//3, h - 5, h - 2] # все возможные ходы
     if h <= 19: return 'win'
     if any(g(x) == 'win' for x in m): return 'p1'
-    if all(g(x) == 'p1' for x in m):  return 'v1' #мина
+    if all(g(x) == 'p1' for x in m): return 'v1' #мина
     if any(g(x) == 'v1' for x in m): return 'p2'
     if all(g(x) == 'p1' or g(x) == 'p2' for x in m): return 'v1orv2'
 
