@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3de82368-9152-4c39-8653-cc32611ad622" name="Changes" comment="Решение">
-      <change afterPath="$PROJECT_DIR$/16 задание/16 Досрок 2026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/24 досрок.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/Файлы/24_22osn_PNO.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/Файлы/24_23dosr.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/Файлы/24_23osn.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/Файлы/24_23rezerv.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/Файлы/24_28765.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27 Задание 2025/27 ДОСРОК 2026 ПЛАНЕТЫ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27 Задание 2025/файлы/27_A_28766.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27 Задание 2025/файлы/27_B_28766.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6 задание/крылов 2024 ломанная.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 задание/крылов 2024 ломанная.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +43,10 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": true
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: true
+}</component>
   <component name="ProjectId" id="2fuvI2SsvYZnSUb0M4jxdo5movs" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -251,6 +240,7 @@
     "Python.проверка.executor": "Run",
     "Python.произв не менее 5 подряд идущих чисел.executor": "Run",
     "Python.простое число.executor": "Run",
+    "Python.резерв 2023.executor": "Run",
     "Python.сумма цифр f(n) = 24.executor": "Run",
     "Python.три точки и прямые.executor": "Run",
     "Python.тройки.executor": "Run",
@@ -296,8 +286,8 @@
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\27 задание\27 файлы" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.27 ДОСРОК 2026 ПЛАНЕТЫ">
-    <configuration name="багаж егэ 2023" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.резерв 2023">
+    <configuration name="резерв 2023" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -306,13 +296,37 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/26 задание" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6 задание" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26 задание/багаж егэ 2023.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 задание/резерв 2023.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="крылов 2024 ломанная" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EGE_code-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6 задание" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 задание/крылов 2024 ломанная.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -337,30 +351,6 @@
       <option name="DEBUG_JUST_MY_CODE" value="true" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26 задание/Парковки для автомобилей и микроавтобусов.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="16 Досрок 2026" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="EGE_code-main" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16 задание" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16 задание/16 Досрок 2026.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -443,11 +433,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.резерв 2023" />
+        <item itemvalue="Python.крылов 2024 ломанная" />
         <item itemvalue="Python.27 ДОСРОК 2026 ПЛАНЕТЫ" />
         <item itemvalue="Python.24 досрок" />
         <item itemvalue="Python.24" />
-        <item itemvalue="Python.16 Досрок 2026" />
-        <item itemvalue="Python.багаж егэ 2023" />
       </list>
     </recent_temporary>
   </component>

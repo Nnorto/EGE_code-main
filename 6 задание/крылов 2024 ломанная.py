@@ -1,5 +1,5 @@
 from turtle import *
-k = 20
+k = 30
 tracer(0)
 screensize(3000, 3000)
 left(90)
@@ -25,5 +25,6 @@ for x in range(-30, 30):
         dot(4, "pink")
 
 
+
 update()
-exitonclick()
+done()
