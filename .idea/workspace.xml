@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3de82368-9152-4c39-8653-cc32611ad622" name="Changes" comment="Решение">
-      <change afterPath="$PROJECT_DIR$/15 задание/15 множество делителей числа у.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 задание/15 сборник крылова 2026 вариант 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 задание/16 апробация 4 марта 2026 словари.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 задание/16 через словари.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 задание/ЕГКР 18 апреля 2026 две функции через словари.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 задание/две функции через словари f(n) и g(n).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 задание/что такое словарь.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,15 +78,18 @@
     "Python.15 xy.executor": "Run",
     "Python.15 задание.executor": "Run",
     "Python.15 множества + отрезки найти y.executor": "Run",
+    "Python.15 множество делителей числа у.executor": "Run",
     "Python.15 сборник крылова 2026 вариант 2.executor": "Run",
     "Python.15.executor": "Run",
     "Python.16 global 18 задание с урока.executor": "Run",
     "Python.16 global список 20 задание с урока.executor": "Run",
     "Python.16 jopa.executor": "Run",
     "Python.16 Досрок 2026.executor": "Run",
+    "Python.16 апробация 4 марта 2026 словари.executor": "Run",
     "Python.16 задание (1).executor": "Run",
     "Python.16 задание.executor": "Run",
     "Python.16 сумма с картинки.executor": "Run",
+    "Python.16 через словари.executor": "Run",
     "Python.16.executor": "Run",
     "Python.17 2сс количество 1 равно 2.executor": "Run",
     "Python.17 ЕГКР 2024.executor": "Run",
@@ -184,6 +190,7 @@
     "Python.Демо 2025.executor": "Run",
     "Python.Демо ЕГЭ 2025.executor": "Run",
     "Python.Досрок 2024.executor": "Run",
+    "Python.ЕГКР 18 апреля 2026 две функции через словари.executor": "Run",
     "Python.ЕГКР 2024 12 21.executor": "Run",
     "Python.ЕГКР 2024 21 декабря.executor": "Run",
     "Python.ЕГЭ 2021 МАКСИМАЛЬНАЯ ПРЕФ СУММА И МАКС ДЛИНА.executor": "Run",
@@ -205,6 +212,7 @@
     "Python.восьмибитная запись.executor": "Run",
     "Python.дан адрес и адрес сети найти наиб количество адресов в сети.executor": "Run",
     "Python.дан адрес компа и маска найти номер компа.executor": "Run",
+    "Python.две функции через словари f(n) и g(n).executor": "Run",
     "Python.демка 2024.executor": "Run",
     "Python.демо 2025.executor": "Run",
     "Python.домашка 1.executor": "Run",
@@ -289,7 +297,55 @@
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\27 задание\27 файлы" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.15 множество делителей числа у">
+  <component name="RunManager" selected="Python.ЕГКР 18 апреля 2026 две функции через словари">
+    <configuration name="две функции через словари f(n) и g(n)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EGE_code-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16 задание" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16 задание/две функции через словари f(n) и g(n).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ЕГКР 18 апреля 2026 две функции через словари" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EGE_code-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16 задание" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16 задание/ЕГКР 18 апреля 2026 две функции через словари.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Парковки для автомобилей и микроавтобусов" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
@@ -306,54 +362,6 @@
       <option name="DEBUG_JUST_MY_CODE" value="true" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26 задание/Парковки для автомобилей и микроавтобусов.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="15 сборник крылова 2026 вариант 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="EGE_code-main" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15 задание" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15 задание/15 сборник крылова 2026 вариант 2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="15 множества + отрезки найти y" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="EGE_code-main" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15 задание" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15 задание/15 множества + отрезки найти y.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -386,7 +394,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16 апробация 4 марта 2026 словари" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -395,13 +403,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24 задание" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16 задание" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24 задание/24.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16 задание/16 апробация 4 марта 2026 словари.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -410,7 +418,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16 через словари" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -419,13 +427,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16 задание" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16 задание/16 через словари.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -436,11 +444,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ЕГКР 18 апреля 2026 две функции через словари" />
+        <item itemvalue="Python.две функции через словари f(n) и g(n)" />
+        <item itemvalue="Python.16 апробация 4 марта 2026 словари" />
+        <item itemvalue="Python.16 через словари" />
         <item itemvalue="Python.15 множество делителей числа у" />
-        <item itemvalue="Python.15 сборник крылова 2026 вариант 2" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.24" />
-        <item itemvalue="Python.15 множества + отрезки найти y" />
       </list>
     </recent_temporary>
   </component>
