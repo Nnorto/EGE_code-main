@@ -1,24 +1,9 @@
-f = open('test.txt')
-s = f.readline()
-print(len(s))
-se = s.split('X')
-mk = 0
-a = 3
-k = 2
-for j in range(len(se)-k):
-    s = ''.join(se[j:j+k+1])
-    print(s)
-    if s.count('A') < a:
-        continue
-    else:
-        sp = s.split('A')
-        print('\t', sp)
-        sm = a + k
-        for i in range(0, a+1):
-            sm += len(sp[i])
-        mk = max(mk, sm)
-        for i in range(1, len(sp) - a):
-            sm = sm - len(sp[i-1]) + len(sp[i+a])
-            mk = max(mk, sm)
-        print('\t', '\t', mk, sm)
-print(mk)
+s = open('Файлы/24-j6.txt').read()
+k = 0
+if s[-7] < s[-6] < s[-5] < s[-4] < s[-3] < s[-2]< s[-1]:
+    k += 1
+
+for i in range(7, len(s)):
+    if s[i-7] < s[i-6] < s[i-5] < s[-4] < s[i-3] < s[i-2]< s[i-1] and s[i-1] > s[i]:
+        k+=1
+print(k)

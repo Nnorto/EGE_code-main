@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3de82368-9152-4c39-8653-cc32611ad622" name="Changes" comment="Решение">
-      <change afterPath="$PROJECT_DIR$/16 задание/16 апробация 4 марта 2026 словари.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 задание/16 через словари.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 задание/ЕГКР 18 апреля 2026 две функции через словари.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 задание/две функции через словари f(n) и g(n).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 задание/что такое словарь.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/Файлы/24-j6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/Файлы/24-s1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/Файлы/24_f1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/Файлы/k7-m26.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 задание/24.py" beforeDir="false" afterPath="$PROJECT_DIR$/24 задание/24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 задание/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/24 задание/test.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +91,7 @@
     "Python.16 задание.executor": "Run",
     "Python.16 сумма с картинки.executor": "Run",
     "Python.16 через словари.executor": "Run",
+    "Python.16 через словарь.executor": "Run",
     "Python.16.executor": "Run",
     "Python.17 2сс количество 1 равно 2.executor": "Run",
     "Python.17 ЕГКР 2024.executor": "Run",
@@ -272,7 +274,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/lucky/PycharmProjects/EGE_code-main/24 задание/Файлы",
+    "last_opened_file_path": "C:/Users/lucky/PycharmProjects/EGE_code-main/ЕГКР 18_04_2026",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -283,11 +285,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\ЕГКР 18_04_2026" />
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\24 задание\Файлы" />
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\27 Задание 2025\файлы" />
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\26 задание\Файлы" />
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\Разбор варианта 1 дня ЕГЭ 2025" />
-      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\27 Задание 2025\Урок 3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\27 Задание 2025\файлы" />
@@ -297,55 +299,7 @@
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\27 задание\27 файлы" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ЕГКР 18 апреля 2026 две функции через словари">
-    <configuration name="две функции через словари f(n) и g(n)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="EGE_code-main" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16 задание" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16 задание/две функции через словари f(n) и g(n).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ЕГКР 18 апреля 2026 две функции через словари" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="EGE_code-main" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16 задание" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16 задание/ЕГКР 18 апреля 2026 две функции через словари.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.2 задание">
     <configuration name="Парковки для автомобилей и микроавтобусов" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
@@ -370,7 +324,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15 множество делителей числа у" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17 задание" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -379,13 +333,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15 задание" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ЕГКР 18_04_2026" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15 задание/15 множество делителей числа у.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ЕГКР 18_04_2026/17 задание.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -394,7 +348,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16 апробация 4 марта 2026 словари" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="19-21 задание" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -403,13 +357,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16 задание" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ЕГКР 18_04_2026" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16 задание/16 апробация 4 марта 2026 словари.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ЕГКР 18_04_2026/19-21 задание.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -418,7 +372,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16 через словари" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2 задание" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -427,13 +381,61 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16 задание" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ЕГКР 18_04_2026" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16 задание/16 через словари.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ЕГКР 18_04_2026/2 задание.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="23 задание" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EGE_code-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ЕГКР 18_04_2026" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ЕГКР 18_04_2026/23 задание.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="25 задание" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EGE_code-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ЕГКР 18_04_2026" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ЕГКР 18_04_2026/25 задание.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -444,11 +446,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ЕГКР 18 апреля 2026 две функции через словари" />
-        <item itemvalue="Python.две функции через словари f(n) и g(n)" />
-        <item itemvalue="Python.16 апробация 4 марта 2026 словари" />
-        <item itemvalue="Python.16 через словари" />
-        <item itemvalue="Python.15 множество делителей числа у" />
+        <item itemvalue="Python.2 задание" />
+        <item itemvalue="Python.25 задание" />
+        <item itemvalue="Python.23 задание" />
+        <item itemvalue="Python.19-21 задание" />
+        <item itemvalue="Python.17 задание" />
       </list>
     </recent_temporary>
   </component>
