@@ -1,17 +1,24 @@
-f = open('17 файлы/17statokt23.txt')
+f = open('17 файлы/17-1.txt')
 a = [int(x) for x in f]
-b = [x for x in a if abs(x) % 100 == 17]
-m = max(b)
 res = []
-for i in range(len(a) - 2):
-    x, y, z = a[i], a[i + 1], a[i + 2]
-    if (len(str(abs(x))) == 4) + \
-            (len(str(abs(y))) == 4) + \
-            (len(str(abs(z))) == 4) == 2:
-        if (x % 5 == 0) + \
-                (y % 5 == 0) + \
-                (z % 5 == 0) >= 1:
-            sm = x + y + z
-            if sm > m:
-                res.append(sm)
+
+for i in range(len(a) - 1):
+    x, y = a[i], a[i + 1]
+    if x % 3 == 0 or y % 3 == 0:
+        if x + y <= max(x for x in a if x % 3 == 0):
+            res.append(x + y)
+
 print(len(res), max(res))
+
+f = open('17 файлы/17-1.txt')
+data = [int(x) for x in f]
+count = 0
+maxpairsum = 0
+maxmult3 = max(x for x in data if x % 3 == 0)
+for i in range(len(data)-1):
+    a = data[i]
+    b = data[i + 1]
+    if (a % 3 == 0 or b % 3 == 0) and (a + b <= maxmult3):
+        count +=1
+        maxpairsum = max(maxpairsum, a + b)
+print(count, maxpairsum)
