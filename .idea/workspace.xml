@@ -5,36 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3de82368-9152-4c39-8653-cc32611ad622" name="Changes" comment="Решение">
-      <change afterPath="$PROJECT_DIR$/24 задание/24 пересдача гроб.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/24 регулярка задание 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/24 регулярка задание 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/24 регулярка задание 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/24 регулярка задание 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/24 регулярка задание 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/24 регулярка задание 6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/24 регулярка задание 7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/24 регулярка задание 8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/26 арифм посл из шестеричная сс.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/ЕГЭ 2024 ГРОБ АРИФМ ПОСЛ РАВНАЯ НУЛЮ TRY EXCEPT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/ЕГЭ 2024 ГРОБ АРИФМ ПОСЛ РАВНАЯ НУЛЮ РЕГУЛЯРКИ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/ЕГЭ 2024 ГРОБ АРИФМ ПОСЛ РАВНАЯ НУЛЮ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/Файлы/24-196.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/Файлы/24-204.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/Файлы/24-212.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/Файлы/24-215.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/Файлы/24-239.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/Файлы/24-298.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/Файлы/24-310.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/Файлы/24_17641.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/Файлы/24_17685.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/Файлы/24_19968.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/Файлы/k7a-1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/Файлы/СборникЕГЭ_2024_задание24_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 задание/Что такое регулярное выражение.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 задание/16 словари задание 18297.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 задание/foto/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 задание/foto/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 задание/foto/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 задание/foto/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 задание/foto/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 задание/foto/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 задание/foto/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 задание/foto/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 задание/foto/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 задание/Что такое словарь.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17 задание/17.py" beforeDir="false" afterPath="$PROJECT_DIR$/17 задание/17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/24 задание/24.py" beforeDir="false" afterPath="$PROJECT_DIR$/24 задание/24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16 задание/что такое словарь.py" beforeDir="false" afterPath="$PROJECT_DIR$/16 задание/16.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -322,7 +305,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion.inline"
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -334,38 +317,14 @@
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\27 Задание 2025\файлы" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\16 задание\foto" />
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\27 Задание 2025\файлы" />
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\17 задание\17 файлы" />
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\ЕГЭ 2023" />
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\26 задание\Файлы" />
-      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\27 задание\27 файлы" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ЕГЭ 2024 ГРОБ АРИФМ ПОСЛ РАВНАЯ НУЛЮ РЕГУЛЯРКИ">
-    <configuration name="ЕГЭ 2024 ГРОБ АРИФМ ПОСЛ РАВНАЯ НУЛЮ РЕГУЛЯРКИ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="EGE_code-main" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24 задание" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24 задание/ЕГЭ 2024 ГРОБ АРИФМ ПОСЛ РАВНАЯ НУЛЮ РЕГУЛЯРКИ.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.16">
     <configuration name="ЕГЭ 2024 ГРОБ АРИФМ ПОСЛ РАВНАЯ НУЛЮ TRY EXCEPT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
@@ -414,6 +373,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ЕГЭ 2024 ГРОБ АРИФМ ПОСЛ РАВНАЯ НУЛЮ РЕГУЛЯРКИ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EGE_code-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24 задание" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24 задание/ЕГЭ 2024 ГРОБ АРИФМ ПОСЛ РАВНАЯ НУЛЮ РЕГУЛЯРКИ.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Парковки для автомобилей и микроавтобусов" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
@@ -438,7 +421,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -447,13 +430,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24 задание" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16 задание" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24 задание/24.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16 задание/16.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -462,7 +445,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="26 арифм посл из шестеричная сс" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -471,13 +454,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24 задание" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24 задание/26 арифм посл из шестеричная сс.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -488,11 +471,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.16" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.ЕГЭ 2024 ГРОБ АРИФМ ПОСЛ РАВНАЯ НУЛЮ РЕГУЛЯРКИ" />
         <item itemvalue="Python.ЕГЭ 2024 ГРОБ АРИФМ ПОСЛ РАВНАЯ НУЛЮ" />
         <item itemvalue="Python.ЕГЭ 2024 ГРОБ АРИФМ ПОСЛ РАВНАЯ НУЛЮ TRY EXCEPT" />
-        <item itemvalue="Python.26 арифм посл из шестеричная сс" />
-        <item itemvalue="Python.24" />
       </list>
     </recent_temporary>
   </component>
