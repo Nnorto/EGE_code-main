@@ -1,15 +1,8 @@
-from ipaddress import *
+def f(x, y):
+    if x == y:
+        return 1
+    if x < y:
+        return 0
+    return f(x - 2, y) + f(x // 2, y)
 
-for mask in range(16, 24+1):
-    net = ip_network(f'255.211.33.160/{mask}', False)
-    flag = True
-    for ad in net:
-        ad2 = f'{ad:b}'
-        lev = ad2[:16]
-        prav = ad2[16:]
-        if not(lev.count('1') >= prav.count('1')):
-            flag = False
-            break
-    if flag:
-        print(net.netmask)
-        break
+print(f(40, 14)*f(14, 2))

@@ -13,12 +13,12 @@ for r in range(len(s)):
     while cnty > ky:
         if s[l] == 'Y':
             cnty -= 1
-        if s[l] + s[l+1]+s[l+2] + s[l+3] == '2025':
-            cnt25 -= 1
         l += 1
     if cnty == 80 and cnt25 >= 90:
         td = r - l + 1
         md = max(td, md)
+    if r % 100000 == 0:
+        print(r, len(s), md)
 print(md)
 
 # ans 2981

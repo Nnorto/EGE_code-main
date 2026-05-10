@@ -5,19 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3de82368-9152-4c39-8653-cc32611ad622" name="Changes" comment="Решение">
-      <change afterPath="$PROJECT_DIR$/16 задание/16 словари задание 18297.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 задание/foto/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 задание/foto/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 задание/foto/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 задание/foto/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 задание/foto/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 задание/foto/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 задание/foto/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 задание/foto/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 задание/foto/img_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 задание/Что такое словарь.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/24 символы 20 встр 26 раз гласная ровно 1 раз и в конце.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/C или D встр не более 2-х раз.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/CAT встр не менее 4-х раз и при этом оканчивается на CAT и содерж 700 единиц.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/D 100 раз и нет цифр и нет DS и SD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/FSRQ встр ровно 80 раз.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/INFINITY встр 1000 раз.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/RO встр 21 раз и ORO и ROR НЕ ВСТР.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/files/24-263.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/files/24-293.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/files/24-309.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/files/24-361.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/files/24_11667.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/files/24_11954.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/files/24_12476.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/files/24_13100.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/files/24_23206.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/files/24_23762.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/files/24_2577.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/files/24_28765.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/files/24_28943.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/files/24var03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/Досрок 2026 года ВС встр не более 180 раз.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/ЕГЭ 2023 буква у встр не более 150 раз.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/ЕГЭ 2025 начинается с четной цифры (ТОЛЬКО ОДНА ЧЕТ ЦИФРА) и букв S ровно 35 шт.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/ЕГЭ 2025 начинается с четной цифры и букв S ровно 35 шт.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/демовесия 2026 года.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/минимальная строка где X встр не менее 500 раз  и нет У.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/минимальная строка где Z встр не менее 120 раз.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 задание/24 накопление строки/нет y и точек не более 5-ти.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16 задание/что такое словарь.py" beforeDir="false" afterPath="$PROJECT_DIR$/16 задание/16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16 задание/16.py" beforeDir="false" afterPath="$PROJECT_DIR$/16 задание/16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 задание/24 демоверсия 2026.py" beforeDir="false" afterPath="$PROJECT_DIR$/24 задание/24 демоверсия 2026.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +70,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/17 задание/17.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/23 задание/23 ЕГКР 21_12_2024.py" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/main.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/main.py" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -203,6 +222,13 @@
     "Python.9 задание Демо 2025.executor": "Run",
     "Python.9 задание.executor": "Run",
     "Python.9.executor": "Run",
+    "Python.C или D встр не более 2-х раз.executor": "Run",
+    "Python.CAT встр не менее 4-х раз и при этом оканчивается на CAT и содерж 700 единиц.executor": "Run",
+    "Python.D 100 раз и нет цифр и нет DS и SD.executor": "Run",
+    "Python.FSRQ встр ровно 80 раз.executor": "Run",
+    "Python.INFINITY встр 1000 раз.executor": "Run",
+    "Python.INFINITY.executor": "Run",
+    "Python.RO встр 21 раз и ORO и ROR НЕ ВСТР.executor": "Run",
     "Python.TEST.executor": "Run",
     "Python.Tets 27.executor": "Run",
     "Python.any и all.executor": "Run",
@@ -214,11 +240,13 @@
     "Python.Демо 2025.executor": "Run",
     "Python.Демо ЕГЭ 2025.executor": "Run",
     "Python.Досрок 2024.executor": "Run",
+    "Python.Досрок 2026 года ВС встр не более 180 раз.executor": "Run",
     "Python.ЕГКР 18 апреля 2026 две функции через словари.executor": "Run",
     "Python.ЕГКР 2024 12 21.executor": "Run",
     "Python.ЕГКР 2024 21 декабря.executor": "Run",
     "Python.ЕГЭ 2021 МАКСИМАЛЬНАЯ ПРЕФ СУММА И МАКС ДЛИНА.executor": "Run",
     "Python.ЕГЭ 2023 ДОСРОК.executor": "Run",
+    "Python.ЕГЭ 2023 буква у вср не более 150 раз.executor": "Run",
     "Python.ЕГЭ 2024 (1).executor": "Run",
     "Python.ЕГЭ 2024 ГРОБ АРИФМ ПОСЛ РАВНАЯ НУЛЮ TRY EXCEPT.executor": "Run",
     "Python.ЕГЭ 2024 ГРОБ АРИФМ ПОСЛ РАВНАЯ НУЛЮ РЕГУЛЯРКИ.executor": "Run",
@@ -227,6 +255,8 @@
     "Python.ЕГЭ 2024 День 2 (аналог 1 дня).executor": "Run",
     "Python.ЕГЭ 2024 числа 9сс.executor": "Run",
     "Python.ЕГЭ 2024.executor": "Run",
+    "Python.ЕГЭ 2025 начинается с четной цифры (ТОЛЬКО ОДНА ЧЕТ ЦИФРА) и букв S ровно 35 шт.executor": "Run",
+    "Python.ЕГЭ 2025 начинается с четной цифры и букв S ровно 35 шт.executor": "Run",
     "Python.МЕТОД ЧАСТИЧНЫХ СУММ.executor": "Run",
     "Python.Метод двух указателей.executor": "Run",
     "Python.Парковки для автомобилей и микроавтобусов.executor": "Run",
@@ -242,6 +272,7 @@
     "Python.две функции через словари f(n) и g(n).executor": "Run",
     "Python.демка 2024.executor": "Run",
     "Python.демо 2025.executor": "Run",
+    "Python.демовесия 2026 года.executor": "Run",
     "Python.домашка 1.executor": "Run",
     "Python.домашка 10.executor": "Run",
     "Python.домашка 2.executor": "Run",
@@ -260,6 +291,8 @@
     "Python.колич пар произв кратно 14.executor": "Run",
     "Python.крылов 2024 ломанная.executor": "Run",
     "Python.метод половинного деления.executor": "Run",
+    "Python.минимальная строка где X встр не менее 500 раз  и нет У.executor": "Run",
+    "Python.минимальная строка где Z встр не менее 120 раз.executor": "Run",
     "Python.минимальное значение Х.executor": "Run",
     "Python.мкад 109 км остатки круговая трасса.executor": "Run",
     "Python.много способов решить 15 на дел и другие типы.executor": "Run",
@@ -267,6 +300,7 @@
     "Python.не более 2-х раз.executor": "Run",
     "Python.не более 4-х четных чисел.executor": "Run",
     "Python.не содержит более 2 команд деления нацело на 2.executor": "Run",
+    "Python.нет y и точек не более 5-ти.executor": "Run",
     "Python.нет повт чисел.executor": "Run",
     "Python.опять dell.executor": "Run",
     "Python.открытый вариант 2025 №21908 КЕГЭ.executor": "Run",
@@ -299,33 +333,33 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/lucky/PycharmProjects/EGE_code-main/24 задание",
+    "last_opened_file_path": "C:/Users/lucky/PycharmProjects/EGE_code-main/24 задание/24 накопление строки",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.tabs"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\24 задание\24 накопление строки" />
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\24 задание\24 накопление строки\files" />
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\24 задание" />
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\24 задание\Файлы" />
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\ЕГКР 18_04_2026" />
-      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\17 задание\17 файлы" />
-      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\27 Задание 2025\файлы" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\24 задание\24 накопление строки\files" />
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\16 задание\foto" />
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\27 Задание 2025\файлы" />
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\17 задание\17 файлы" />
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\ЕГЭ 2023" />
-      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\26 задание\Файлы" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.16">
-    <configuration name="ЕГЭ 2024 ГРОБ АРИФМ ПОСЛ РАВНАЯ НУЛЮ TRY EXCEPT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.24 демоверсия 2026">
+    <configuration name="ЕГЭ 2025 начинается с четной цифры и букв S ровно 35 шт" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -334,13 +368,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24 задание" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24 задание/24 накопление строки" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24 задание/ЕГЭ 2024 ГРОБ АРИФМ ПОСЛ РАВНАЯ НУЛЮ TRY EXCEPT.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24 задание/24 накопление строки/ЕГЭ 2025 начинается с четной цифры и букв S ровно 35 шт.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -349,7 +383,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ЕГЭ 2024 ГРОБ АРИФМ ПОСЛ РАВНАЯ НУЛЮ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ЕГЭ 2025 начинается с четной цифры (ТОЛЬКО ОДНА ЧЕТ ЦИФРА) и букв S ровно 35 шт" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -358,37 +392,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24 задание" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24 задание/24 накопление строки" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24 задание/ЕГЭ 2024 ГРОБ АРИФМ ПОСЛ РАВНАЯ НУЛЮ.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ЕГЭ 2024 ГРОБ АРИФМ ПОСЛ РАВНАЯ НУЛЮ РЕГУЛЯРКИ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="EGE_code-main" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24 задание" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24 задание/ЕГЭ 2024 ГРОБ АРИФМ ПОСЛ РАВНАЯ НУЛЮ РЕГУЛЯРКИ.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24 задание/24 накопление строки/ЕГЭ 2025 начинается с четной цифры (ТОЛЬКО ОДНА ЧЕТ ЦИФРА) и букв S ровно 35 шт.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -421,7 +431,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="24 символы 20 встр 26 раз гласная ровно 1 раз и в конце" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -430,13 +440,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16 задание" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24 задание/24 накопление строки" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16 задание/16.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24 задание/24 накопление строки/24 символы 20 встр 26 раз гласная ровно 1 раз и в конце.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -445,7 +455,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="24 демоверсия 2026" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -454,13 +464,37 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24 задание" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24 задание/24 демоверсия 2026.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CAT встр не менее 4-х раз и при этом оканчивается на CAT и содерж 700 единиц" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EGE_code-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24 задание/24 накопление строки" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24 задание/24 накопление строки/CAT встр не менее 4-х раз и при этом оканчивается на CAT и содерж 700 единиц.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -471,11 +505,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.16" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.ЕГЭ 2024 ГРОБ АРИФМ ПОСЛ РАВНАЯ НУЛЮ РЕГУЛЯРКИ" />
-        <item itemvalue="Python.ЕГЭ 2024 ГРОБ АРИФМ ПОСЛ РАВНАЯ НУЛЮ" />
-        <item itemvalue="Python.ЕГЭ 2024 ГРОБ АРИФМ ПОСЛ РАВНАЯ НУЛЮ TRY EXCEPT" />
+        <item itemvalue="Python.24 демоверсия 2026" />
+        <item itemvalue="Python.ЕГЭ 2025 начинается с четной цифры (ТОЛЬКО ОДНА ЧЕТ ЦИФРА) и букв S ровно 35 шт" />
+        <item itemvalue="Python.ЕГЭ 2025 начинается с четной цифры и букв S ровно 35 шт" />
+        <item itemvalue="Python.CAT встр не менее 4-х раз и при этом оканчивается на CAT и содерж 700 единиц" />
+        <item itemvalue="Python.24 символы 20 встр 26 раз гласная ровно 1 раз и в конце" />
       </list>
     </recent_temporary>
   </component>
