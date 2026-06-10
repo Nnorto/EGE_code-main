@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ЕГЭ Информатика — Интенсив</title>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #070a16;
+      --panel: #0d1226;
+      --border: rgba(120, 140, 210, 0.18);
+      --text: #e7ecff;
+      --muted: #828db0;
+      --accent: #57f287;
+      --accent-2: #5b8cff;
+      --radius: 22px;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body { height: 100%; }
+    body {
+      font-family: "JetBrains Mono", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      background:
+        radial-gradient(circle at 8% -5%, rgba(91,140,255,.18), transparent 48%),
+        radial-gradient(circle at 95% 105%, rgba(87,242,135,.12), transparent 50%),
+        var(--bg);
+      color: var(--text);
+      overflow: hidden;
+    }
+    .shell {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      padding: 18px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .card {
+      width: 1080px;
+      max-width: 100%;
+      height: 1180px;
+      max-height: 100%;
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
+      background: linear-gradient(160deg, rgba(15,21,48,0.98), rgba(7,10,22,0.99));
+      box-shadow: 0 30px 70px rgba(0,0,0,0.55);
+      padding: 44px 48px 40px;
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      gap: 22px;
+      overflow: hidden;
+    }
+
+    /* HEADER */
+    .header { display: flex; flex-direction: column; gap: 16px; }
+    .badge-row {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+    .pill {
+      padding: 7px 16px;
+      border-radius: 999px;
+      border: 1px solid rgba(87, 242, 135, 0.35);
+      background: rgba(12, 30, 20, 0.6);
+      color: var(--accent);
+      font-weight: 700;
+      font-size: 13px;
+      letter-spacing: 0.02em;
+    }
+    .mono-tag {
+      font-size: 13px;
+      color: var(--muted);
+      letter-spacing: 0.04em;
+    }
+    .mono-tag .gt { color: var(--accent-2); }
+    h1 {
+      font-size: 54px;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      line-height: 1;
+    }
+    h1 span { color: var(--accent); }
+    .subtitle {
+      font-size: 16px;
+      color: var(--muted);
+      letter-spacing: 0.02em;
+    }
+    .subtitle .c { color: var(--accent-2); }
+    .header-rule {
+      height: 1px;
+      background: linear-gradient(90deg, var(--accent-2), transparent);
+      opacity: 0.5;
+    }
+
+    /* SCHEDULE */
+    .schedule { display: flex; flex-direction: column; gap: 2px; }
+    .schedule-head {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 10px;
+    }
+    .schedule-head h2 {
+      font-size: 18px;
+      text-transform: uppercase;
+      letter-spacing: 0.16em;
+      color: #c9d4ff;
+    }
+    .schedule-head h2 .fn { color: var(--accent); }
+    .schedule-head .exam { font-size: 14px; color: var(--muted); }
+
+    .row {
+      display: grid;
+      grid-template-columns: 96px 1fr 150px;
+      align-items: center;
+      gap: 16px;
+      padding: 12px 6px;
+      border-bottom: 1px solid rgba(60, 72, 110, 0.35);
+    }
+    .row:last-child { border-bottom: none; }
+    .day-num { font-weight: 700; font-size: 17px; color: #cdd8ff; white-space: nowrap; }
+    .day-dow { font-size: 12px; color: var(--muted); letter-spacing: 0.1em; text-transform: uppercase; }
+    .lines { display: flex; flex-direction: column; gap: 5px; }
+    .line { display: flex; align-items: center; gap: 12px; }
+    .t { color: var(--accent-2); font-weight: 700; font-size: 14px; white-space: nowrap; min-width: 52px; }
+    .task { color: var(--text); font-weight: 500; font-size: 15px; }
+    .task .lbl { color: var(--muted); font-weight: 400; }
+    .task.dv { color: var(--accent); }
+    .tags { display: flex; flex-direction: column; gap: 5px; align-items: flex-end; }
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      padding: 4px 11px;
+      border-radius: 999px;
+      border: 1px solid rgba(91, 140, 255, 0.4);
+      background: rgba(14, 24, 60, 0.7);
+      font-size: 12px;
+      color: #9fb1ff;
+    }
+    .tag.exam { border-color: rgba(87, 242, 135, 0.45); color: var(--accent); background: rgba(12, 30, 20, 0.6); }
+
+    .row.rest {
+      background: rgba(87, 242, 135, 0.05);
+      border-radius: 14px;
+      border-bottom: 1px solid rgba(87, 242, 135, 0.22);
+    }
+    .row.highlight {
+      background: rgba(91, 140, 255, 0.06);
+      border-radius: 14px;
+      border-bottom: 1px solid rgba(91, 140, 255, 0.25);
+    }
+    .rest-text { color: var(--accent); font-weight: 600; font-size: 15px; }
+    .rest-sub { color: var(--muted); font-weight: 400; }
+
+    /* FOOTER */
+    .footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 14px;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+      padding-top: 18px;
+    }
+    .footer span strong { color: var(--accent); }
+    .footer code { color: #9fb1ff; }
+    .footer-right { display: flex; align-items: center; gap: 12px; }
+    .dot {
+      width: 9px; height: 9px; border-radius: 50%;
+      background: var(--accent);
+      box-shadow: 0 0 14px rgba(87, 242, 135, 0.9);
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <div class="card">
+      <header class="header">
+        <div class="badge-row">
+          <div class="pill">Информатика ЕГЭ • Артём Захаров</div>
+          <span class="mono-tag">intensive <span class="gt">&lt;week-before /&gt;</span></span>
+        </div>
+        <h1>МИНИ‑<span>ИНТЕНСИВ</span> 10–19.06</h1>
+        <div class="subtitle"><span class="c">//</span> Вспомнить всё перед экзаменом</div>
+        <div class="header-rule"></div>
+      </header>
+
+      <section class="schedule">
+        <div class="schedule-head">
+          <h2>расписание<span class="fn">.codelab()</span></h2>
+          <div class="exam">// ЕГЭ: 18–19 июня 2026</div>
+        </div>
+
+        <div class="row">
+          <div><div class="day-num">10.06</div><div class="day-dow">вт</div></div>
+          <div class="lines">
+            <div class="line"><span class="t">13:00</span><span class="task"><span class="lbl">Задание №</span>4, 7, 11</span></div>
+            <div class="line"><span class="t">16:00</span><span class="task"><span class="lbl">Задание №</span>16, 6</span></div>
+            <div class="line"><span class="t">18:00</span><span class="task"><span class="lbl">Задание №</span>25</span></div>
+          </div>
+          <div class="tags"><span class="tag">lesson[0]</span></div>
+        </div>
+
+        <div class="row">
+          <div><div class="day-num">12.06</div><div class="day-dow">чт</div></div>
+          <div class="lines">
+            <div class="line"><span class="t">13:00</span><span class="task"><span class="lbl">Задание №</span>3, 5</span></div>
+            <div class="line"><span class="t">16:00</span><span class="task"><span class="lbl">Задание №</span>8</span></div>
+            <div class="line"><span class="t">18:00</span><span class="task"><span class="lbl">Задание №</span>24</span></div>
+          </div>
+          <div class="tags"><span class="tag">lesson[1]</span></div>
+        </div>
+
+        <div class="row">
+          <div><div class="day-num">13.06</div><div class="day-dow">пт</div></div>
+          <div class="lines">
+            <div class="line"><span class="t">13:00</span><span class="task"><span class="lbl">Задание №</span>9, 18</span></div>
+            <div class="line"><span class="t">16:00</span><span class="task"><span class="lbl">Задание №</span>10, 14</span></div>
+            <div class="line"><span class="t">18:00</span><span class="task"><span class="lbl">Задание №</span>26</span></div>
+          </div>
+          <div class="tags"><span class="tag">lesson[2]</span></div>
+        </div>
+
+        <div class="row">
+          <div><div class="day-num">14.06</div><div class="day-dow">сб</div></div>
+          <div class="lines">
+            <div class="line"><span class="t">13:00</span><span class="task"><span class="lbl">Задание №</span>2, 15</span></div>
+            <div class="line"><span class="t">16:00</span><span class="task"><span class="lbl">Задание №</span>1, 13</span></div>
+            <div class="line"><span class="t">18:00</span><span class="task"><span class="lbl">Задание №</span>26</span></div>
+          </div>
+          <div class="tags"><span class="tag">lesson[3]</span></div>
+        </div>
+
+        <div class="row">
+          <div><div class="day-num">15.06</div><div class="day-dow">вс</div></div>
+          <div class="lines">
+            <div class="line"><span class="t">13:00</span><span class="task"><span class="lbl">Задание №</span>17</span></div>
+            <div class="line"><span class="t">16:00</span><span class="task"><span class="lbl">Задание №</span>12, 23</span></div>
+            <div class="line"><span class="t">18:00</span><span class="task"><span class="lbl">Задание №</span>27</span></div>
+          </div>
+          <div class="tags"><span class="tag">lesson[4]</span></div>
+        </div>
+
+        <div class="row">
+          <div><div class="day-num">16.06</div><div class="day-dow">пн</div></div>
+          <div class="lines">
+            <div class="line"><span class="t">13:00</span><span class="task"><span class="lbl">Задание №</span>22</span></div>
+            <div class="line"><span class="t">16:00</span><span class="task"><span class="lbl">Задание №</span>19–21</span></div>
+            <div class="line"><span class="t">18:00</span><span class="task"><span class="lbl">Задание №</span>27</span></div>
+          </div>
+          <div class="tags"><span class="tag">lesson[5]</span></div>
+        </div>
+
+        <div class="row rest">
+          <div><div class="day-num">17.06</div><div class="day-dow">вт</div></div>
+          <div class="lines">
+            <div class="line"><span class="rest-text">Выходной</span><span class="rest-sub">// sleep() — отдых и настрой перед ЕГЭ</span></div>
+          </div>
+          <div class="tags"><span class="tag exam">day_off</span></div>
+        </div>
+
+        <div class="row highlight">
+          <div><div class="day-num">18.06</div><div class="day-dow">ср</div></div>
+          <div class="lines">
+            <div class="line"><span class="t">05:00</span><span class="task dv">Разбор Дальнего Востока</span></div>
+            <div class="line"><span class="t">16:00</span><span class="task">Разбор реального ЕГЭ</span></div>
+          </div>
+          <div class="tags"><span class="tag exam">run &lt;exam&gt;</span></div>
+        </div>
+
+        <div class="row highlight">
+          <div><div class="day-num">19.06</div><div class="day-dow">чт</div></div>
+          <div class="lines">
+            <div class="line"><span class="t">05:00</span><span class="task dv">Разбор Дальнего Востока</span></div>
+          </div>
+          <div class="tags"><span class="tag exam">run &lt;exam&gt;</span></div>
+        </div>
+      </section>
+
+      <footer class="footer">
+        <span>// status: <strong>READY</strong> — расписание собрано, осталось решать</span>
+        <div class="footer-right">
+          <div class="dot"></div>
+          <code>&gt;&gt; compile("100 баллов")</code>
+        </div>
+      </footer>
+    </div>
+  </div>
+</body>
+</html>

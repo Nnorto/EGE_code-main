@@ -1,8 +1,12 @@
-def f(x, y):
-    if x > y or x == 20:
-        return 0
-    if x == y:
-        return 1
-    else:
-        return f(x + 1, y) + f(x * 2, y) + (x + 3, y)
-print(f(3, 10) * f(10, 30))
+from itertools import *
+alf = '01234567'
+cnt = 0
+for x in product(alf, repeat=5):
+    s = ''.join(x)
+    if s[0] != '0':
+        if s.count('4') == 2:
+            for x in '1357':
+                s = s.replace(x, '1')
+            if '41' not in s and '14' not in s:
+                cnt += 1
+print(cnt)
