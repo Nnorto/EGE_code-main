@@ -1,4 +1,11 @@
-a = (7680 * 4320 * 8)
-b = 8 * 2**33
-print(b/a)
-print(2987-258*11)
+s = open('24_23osn1.txt').readline()
+m = 10**10
+c = ''
+for r in range(len(s)):
+    c += s[r]
+    while c.count('A') >= 120:
+        m = min(m, len(c))
+        c = c[1:]
+
+
+print(m)

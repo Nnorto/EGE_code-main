@@ -21,3 +21,16 @@ for r in range(len(s)):
 
 print(md)
 # ans 39354
+
+s = open('Файлы/24_droch3.txt').read()
+m = 0
+c = ''
+for r in range(len(s)):
+    c += s[r]
+    while c.count('X') > 60:
+        c = c[1:]
+    if c.count('2026') >= 75:
+        m = max(m, len(c))
+
+
+print(m)

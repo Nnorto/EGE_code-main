@@ -5,31 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3de82368-9152-4c39-8653-cc32611ad622" name="Changes" comment="Решение">
-      <change afterPath="$PROJECT_DIR$/25 задание/произведение 13 простых делителей.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/11 задание/32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/11 задание/33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/11 задание/34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/11 задание/35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/16 задание/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/16 задание/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/16 задание/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/16 задание/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/16 задание/EGKR_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/16 задание/EGKR_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/16 задание/aprobacia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/16 задание/dosrok2026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/25 задание/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/25 задание/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/25 задание/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/25 задание/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/25 задание/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/25 задание/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/25 задание/ЕГЭ 2025 резерв.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/25 задание/ЕГЭ 2025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/25 задание/произведение 13 простых делителей.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/6 задание/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_23osn1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание/EGKR 26god.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание/demo2026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/5 задание/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/5 задание/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/5 задание/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/5 задание/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/5 задание/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/5 задание/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/8 задание/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/8 задание/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/8 задание/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/8 задание/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/8 задание/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/8 задание/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/8 задание/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/8 задание/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/8 задание/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/8 задание/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/8 задание/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/8 задание/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/8 задание/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/file24/24_23762.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/file24/24_28943.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/file24/test24.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 задание/24 2026 не менее 75 раз а буква Х ровно 60.py" beforeDir="false" afterPath="$PROJECT_DIR$/24 задание/24 2026 не менее 75 раз а буква Х ровно 60.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Разное/raspisanie.html" beforeDir="false" afterPath="$PROJECT_DIR$/Разное/raspisanie.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,8 +107,10 @@
     "Python.1 (1).executor": "Run",
     "Python.1 куча короткий.executor": "Run",
     "Python.1.executor": "Run",
+    "Python.10.executor": "Run",
     "Python.11 задание.executor": "Run",
     "Python.11 заданиеэ.executor": "Run",
+    "Python.11.executor": "Run",
     "Python.12 задание.executor": "Run",
     "Python.12-ричная запись.executor": "Run",
     "Python.12.executor": "Run",
@@ -145,6 +168,7 @@
     "Python.23 задание.executor": "Run",
     "Python.23 не более 2-х умножений.executor": "Run",
     "Python.23.executor": "Run",
+    "Python.24 2026 не менее 75 раз а буква Х ровно 60.executor": "Run",
     "Python.24 два способа.executor": "Run",
     "Python.24 демоверсия 2026.executor": "Run",
     "Python.24 досрок.executor": "Run",
@@ -217,6 +241,7 @@
     "Python.6 ЕГКР 2024 ОБЪЕДИНЕНИЕ.executor": "Run",
     "Python.6 задание.executor": "Run",
     "Python.6.executor": "Run",
+    "Python.7.executor": "Run",
     "Python.8  задание.executor": "Run",
     "Python.8 ЕГКР 2024.executor": "Run",
     "Python.8 егэ 2020.executor": "Run",
@@ -234,6 +259,7 @@
     "Python.C или D встр не более 2-х раз.executor": "Run",
     "Python.CAT встр не менее 4-х раз и при этом оканчивается на CAT и содерж 700 единиц.executor": "Run",
     "Python.D 100 раз и нет цифр и нет DS и SD.executor": "Run",
+    "Python.EGKR 26god.executor": "Run",
     "Python.EGKR_1.executor": "Run",
     "Python.EGKR_2.executor": "Run",
     "Python.FSRQ встр ровно 80 раз.executor": "Run",
@@ -244,10 +270,12 @@
     "Python.Tets 27.executor": "Run",
     "Python.any и all.executor": "Run",
     "Python.aprobacia.executor": "Run",
+    "Python.demo2026.executor": "Run",
     "Python.dosrok2026.executor": "Run",
     "Python.global s посчитать кол-во звездочек.executor": "Run",
     "Python.m+a%n == 0.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.test.executor": "Run",
     "Python.x в IP-адресе.executor": "Run",
     "Python.Демо 2025 (1).executor": "Run",
     "Python.Демо 2025.executor": "Run",
@@ -329,6 +357,7 @@
     "Python.произведение 13 простых делителей.executor": "Run",
     "Python.простое число.executor": "Run",
     "Python.резерв 2023.executor": "Run",
+    "Python.согл+гл.executor": "Run",
     "Python.сумма цифр f(n) = 24.executor": "Run",
     "Python.три точки и прямые.executor": "Run",
     "Python.тройки.executor": "Run",
@@ -349,7 +378,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/lucky/PycharmProjects/EGE_code-main/25 задание",
+    "last_opened_file_path": "C:/Users/lucky/PycharmProjects/EGE_code-main/Вспомнить все 2026/Урок 2/24 задание",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -360,11 +389,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\Вспомнить все 2026\Урок 2\24 задание" />
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\Вспомнить все 2026\Урок 2\file24" />
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\Вспомнить все 2026\Урок 2\8 задание" />
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main" />
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\25 задание" />
-      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\Вспомнить все 2026\Урок 1\25 задание" />
-      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\Вспомнить все 2026\Урок 1\16 задание" />
-      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\Вспомнить все 2026\Урок 1" />
-      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\Вспомнить все 2026\Урок 6" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\Вспомнить все 2026\Урок 1\11 задание" />
@@ -374,79 +403,7 @@
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\27 Задание 2025\файлы" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.произведение 13 простых делителей">
-    <configuration name="произведение 13 простых делителей" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="EGE_code-main" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/25 задание" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/25 задание/произведение 13 простых делителей.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ЕГЭ 2025 резерв" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="EGE_code-main" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/25 задание" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/25 задание/ЕГЭ 2025 резерв.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ЕГЭ 2025" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="EGE_code-main" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/25 задание" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/25 задание/ЕГЭ 2025.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.16">
     <configuration name="Парковки для автомобилей и микроавтобусов" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
@@ -471,7 +428,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -480,13 +437,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/25 задание" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/25 задание/1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание/15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -495,7 +452,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -504,13 +461,85 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/25 задание" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 1/25 задание/4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание/16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="24 символы 20 встр 26 раз гласная ровно 1 раз и в конце" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EGE_code-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ЕГКР 18_04_2026" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ЕГКР 18_04_2026/24 символы 20 встр 26 раз гласная ровно 1 раз и в конце.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EGKR 26god" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EGE_code-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание/EGKR 26god.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo2026" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EGE_code-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 2/24 задание/demo2026.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -521,11 +550,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.произведение 13 простых делителей" />
-        <item itemvalue="Python.ЕГЭ 2025 резерв" />
-        <item itemvalue="Python.ЕГЭ 2025" />
-        <item itemvalue="Python.4" />
-        <item itemvalue="Python.1 (1)" />
+        <item itemvalue="Python.16" />
+        <item itemvalue="Python.demo2026" />
+        <item itemvalue="Python.EGKR 26god" />
+        <item itemvalue="Python.24 символы 20 встр 26 раз гласная ровно 1 раз и в конце" />
+        <item itemvalue="Python.15" />
       </list>
     </recent_temporary>
   </component>
