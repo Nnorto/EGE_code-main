@@ -1,5 +1,4 @@
 from ipaddress import *
-for mask in range(32+1):
-    net = ip_network(f'166.174.84.182/{mask}', 0)
-    if str(net.network_address) == '166.174.84.0':
-        print(net.num_addresses)
+net = ip_network('234.185.92.147/255.255.255.192', 0)
+for ad in net.hosts():
+    print(ad)

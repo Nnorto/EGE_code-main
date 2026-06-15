@@ -1,7 +1,7 @@
-def f(x, a):
-    return (x & 39 == 0) or ((x & 11 == 0) <= (x & a != 0))
+def f(x, y, a):
+    return (x + 2*y < a) or (y > x) or (x > 60)
 
 for a in range(0, 1000):
-    if all(f(x, a) for x in range(0, 1000)):
+    if all(f(x, y, a) for x in range(0, 1000) for y in range(0, 1000)):
         print(a)
         break

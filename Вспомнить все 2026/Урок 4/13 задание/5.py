@@ -1,7 +1,8 @@
 from ipaddress import *
-net = ip_network('217.216.215.101/255.255.240.0', 0)
-pn = 0
+net = ip_network('0.0.0.0/255.255.252.0', 0)
+cnt = 0
 for ad in net:
-    if str(ad) == '217.216.215.101':
-        print(pn, ad)
-    pn += 1
+    cnt += 1
+print(cnt-2)
+
+print(net.num_addresses-2)

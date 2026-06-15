@@ -1,8 +1,7 @@
 from ipaddress import *
-cnt = 0
-for mask in range(32+1):
-    net = ip_network(f'211.193.32.53/{mask}', 0)
-    if str(net.network_address) == '211.193.32.0':
-        cnt += 1
-
-print(cnt)
+net = ip_network('217.216.215.101/255.255.240.0', 0)
+pn = 0
+for ad in net:
+    if str(ad) == '217.216.215.101':
+        print(pn, ad)
+    pn += 1
