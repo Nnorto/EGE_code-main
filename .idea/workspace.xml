@@ -5,34 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3de82368-9152-4c39-8653-cc32611ad622" name="Changes" comment="Решение">
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/13 задание/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/13 задание/10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/13 задание/11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/13 задание/12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/13 задание/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/13 задание/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/13 задание/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/13 задание/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/13 задание/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/13 задание/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/13 задание/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/13 задание/9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/15 задание/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/15 задание/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/15 задание/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/15 задание/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/15 задание/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/15 задание/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/15 задание/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/15 задание/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/15 задание/9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/2 задание/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/2 задание/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/26 задание/26 багаж.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/26 задание/26 багаж.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/26 задание/26 банкоматы.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/26 задание/26 банкоматы.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/17 задание/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/17 задание/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/17 задание/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/17 задание/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/17 задание/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/17 задание/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/17 задание/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/17 задание/егкр 2026 год.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/23 задание/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/23 задание/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/23 задание/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/23 задание/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/23 задание/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/23 задание/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/23 задание/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/23 задание/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/23 задание/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/23 задание/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/27 задание/1_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/27 задание/1_b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/27 задание/2_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/27 задание/2_b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/27 задание/3_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/27 задание/3_b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/27 задание/4_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/27 задание/4_b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/27 задание/5_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/27 задание/5_b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/27 задание/6_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/27 задание/6_b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/27 задание/7_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/27 задание/7_b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/file17/17_27301.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/file27/27_2_Zvar3A.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/file27/27_2_Zvar3B.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/file27/27_3_Zvar6A.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/file27/27_3_Zvar6B.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/file27/27_4_Zvar11A.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/file27/27_4_Zvar11B.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 Задание 2025/27 ДОСРОК 2026 ПЛАНЕТЫ.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 Задание 2025/27 ДОСРОК 2026 ПЛАНЕТЫ.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,6 +150,7 @@
     &quot;Python.19-21 ограничение сверху.executor&quot;: &quot;Run&quot;,
     &quot;Python.19-21 уменьшение.executor&quot;: &quot;Run&quot;,
     &quot;Python.19-21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_a.executor&quot;: &quot;Run&quot;,
     &quot;Python.2 задание.executor&quot;: &quot;Run&quot;,
     &quot;Python.2.executor&quot;: &quot;Run&quot;,
     &quot;Python.2022 rezerv.executor&quot;: &quot;Run&quot;,
@@ -211,22 +226,34 @@
     &quot;Python.27.executor&quot;: &quot;Run&quot;,
     &quot;Python.27a.executor&quot;: &quot;Run&quot;,
     &quot;Python.27b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_b.executor&quot;: &quot;Run&quot;,
     &quot;Python.3 (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.3.executor&quot;: &quot;Run&quot;,
     &quot;Python.32.executor&quot;: &quot;Run&quot;,
     &quot;Python.33.executor&quot;: &quot;Run&quot;,
     &quot;Python.35.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_b.executor&quot;: &quot;Run&quot;,
     &quot;Python.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_b.executor&quot;: &quot;Run&quot;,
     &quot;Python.5 (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.5 задание.executor&quot;: &quot;Run&quot;,
     &quot;Python.5.5.executor&quot;: &quot;Run&quot;,
     &quot;Python.5.7 егэ2023 осн.executor&quot;: &quot;Run&quot;,
     &quot;Python.5.8 2023 3cc.executor&quot;: &quot;Run&quot;,
     &quot;Python.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_b.executor&quot;: &quot;Run&quot;,
     &quot;Python.6 ЕГКР 2024 ОБЪЕДИНЕНИЕ.executor&quot;: &quot;Run&quot;,
     &quot;Python.6 задание.executor&quot;: &quot;Run&quot;,
     &quot;Python.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6_a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6_b.executor&quot;: &quot;Run&quot;,
     &quot;Python.7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7_a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7_b.executor&quot;: &quot;Run&quot;,
     &quot;Python.8  задание.executor&quot;: &quot;Run&quot;,
     &quot;Python.8 ЕГКР 2024.executor&quot;: &quot;Run&quot;,
     &quot;Python.8 егэ 2020.executor&quot;: &quot;Run&quot;,
@@ -311,6 +338,7 @@
     &quot;Python.домашка 7.executor&quot;: &quot;Run&quot;,
     &quot;Python.домашка 8.executor&quot;: &quot;Run&quot;,
     &quot;Python.домашка 9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.егкр 2026 год.executor&quot;: &quot;Run&quot;,
     &quot;Python.егэ 2017.executor&quot;: &quot;Run&quot;,
     &quot;Python.егэ 2021 перфиксные суммы и длины.executor&quot;: &quot;Run&quot;,
     &quot;Python.егэ 2023 опять ср знач не повт чисел.executor&quot;: &quot;Run&quot;,
@@ -363,7 +391,7 @@
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lucky/PycharmProjects/EGE_code-main/Вспомнить все 2026/Урок 4/13 задание&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lucky/PycharmProjects/EGE_code-main/Вспомнить все 2026/Урок 5/27 задание&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -374,11 +402,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\Вспомнить все 2026\Урок 5\27 задание" />
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\Вспомнить все 2026\Урок 5\23 задание" />
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\Вспомнить все 2026\Урок 5\17 задание" />
+      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\Вспомнить все 2026\Урок 5\file17" />
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\Вспомнить все 2026\Урок 4\13 задание" />
-      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\Вспомнить все 2026\Урок 4\15 задание" />
-      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\Вспомнить все 2026\Урок 4\2 задание" />
-      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\Вспомнить все 2026\Урок 3\14 задание" />
-      <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\Вспомнить все 2026\Урок 3\9 Задание" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\Вспомнить все 2026\Урок 1\11 задание" />
@@ -388,31 +416,7 @@
       <recent name="C:\Users\lucky\PycharmProjects\EGE_code-main\27 Задание 2025\файлы" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Парковки для автомобилей и микроавтобусов">
-    <configuration name="багаж егэ 2023" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="EGE_code-main" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/26 задание" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26 задание/багаж егэ 2023.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.27 ДОСРОК 2026 ПЛАНЕТЫ">
     <configuration name="Парковки для автомобилей и микроавтобусов" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
@@ -437,7 +441,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="27 ДОСРОК 2026 ПЛАНЕТЫ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -446,13 +450,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/13 задание" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27 Задание 2025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/13 задание/11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27 Задание 2025/27 ДОСРОК 2026 ПЛАНЕТЫ.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -461,7 +465,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6_a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -470,13 +474,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/13 задание" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/27 задание" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/13 задание/12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/27 задание/6_a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -485,7 +489,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="26 банкоматы" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6_b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -494,13 +498,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/26 задание" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/27 задание" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/26 задание/26 банкоматы.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/27 задание/6_b.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -509,7 +513,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="26 багаж" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="7_a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EGE_code-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -518,13 +522,37 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/26 задание" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/27 задание" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 4/26 задание/26 багаж.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/27 задание/7_a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="7_b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EGE_code-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/27 задание" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Вспомнить все 2026/Урок 5/27 задание/7_b.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -535,9 +563,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.багаж егэ 2023" />
-        <item itemvalue="Python.12" />
-        <item itemvalue="Python.11" />
+        <item itemvalue="Python.27 ДОСРОК 2026 ПЛАНЕТЫ" />
+        <item itemvalue="Python.7_b" />
+        <item itemvalue="Python.7_a" />
+        <item itemvalue="Python.6_b" />
+        <item itemvalue="Python.6_a" />
       </list>
     </recent_temporary>
   </component>
@@ -979,21 +1009,6 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>mock:///Python Console.py</url>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

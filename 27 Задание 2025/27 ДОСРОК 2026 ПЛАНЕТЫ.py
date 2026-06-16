@@ -8,7 +8,7 @@ for s in f:
     s = s.split()
     color = s[2][0]
     razmer = s[2][2:]
-    sveta = int(s[2][2])
+    # sveta = int(s[2][2])
     p = [float(s[0]), float(s[1]), color, razmer]
     data.append(p)
 
