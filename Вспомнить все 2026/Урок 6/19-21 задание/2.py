@@ -17,9 +17,9 @@ def g(h):
 
 for s in range(1, 54+1):
     h = 7, s
-    # if g(h) == 'v1':
-    #     print(s)
-    #     break
+    if g(s) == 'v1':
+        print(s)
+        break
 
     # 19z - 14
 
