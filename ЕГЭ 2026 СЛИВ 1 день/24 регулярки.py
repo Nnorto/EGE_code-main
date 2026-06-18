@@ -1,13 +1,15 @@
 from re import *
-s = open('СборникЕГЭ_2024_задание24_3.txt').readline()
+s = open('ЕГЭ 2026 день 1.txt').readline()
 s = s.replace('*', 'Z')
 s = s.replace('+', 'Z')
 num = r'(0|[1-9][0-9]*)'
 reg = rf'{num}(Z{num})*'
 print(max([len(x.group()) for x in finditer(reg, s)]))
 
+
+#Если произведение равно нулю
 from re import *
-s = open('СборникЕГЭ_2024_задание24_3.txt').readline()
+s = open('ЕГЭ 2026 день 1.txt').readline()
 num = r'(0|[1-9][0-9]*)'
 proizv = rf'(({num}\*)*0(\*{num})*)'
 reg = rf'{proizv}(\+{proizv})+'
