@@ -1,4 +1,4 @@
-f = open('26.txt')
+f = open('26_ЕГЭ 2026 день 1.txt')
 k = int(f.readline())
 n = int(f.readline())
 

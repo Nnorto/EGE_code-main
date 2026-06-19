@@ -1,10 +1,13 @@
-f=[0]*2026
-f[1] = 2
-for n in range(2, 2026):
-    f[n] += f[n-1] + n+2
-g = [0]*2026
-for n in range(2, 2026):
-    g[n] = g[n-1] + f[n]*20
-
-
-print(f[2025]*200-g[2025])
+def f(x, y):
+    if x == y:
+        return 1
+    if x > y:
+        return 0
+    if str(x)[2] >str(x)[1]:
+        s = str(x)[0]
+        d = str(x)[1]
+        e = str(x)[2]
+        swap = s+e+d
+        return f(x + 1, y) + f(int(swap), y)
+    return f(x + 1, y)
+print(f(100, 150))
