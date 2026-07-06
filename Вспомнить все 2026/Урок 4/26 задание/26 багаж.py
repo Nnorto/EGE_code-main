@@ -11,8 +11,8 @@ for s in f:
 passaj.sort()
 for star, finish in passaj:
     for i in range(len(box)):
-        if star > box[i]:
-            box[i] = finish
+        if star >= box[i]:
+            box[i] = finish+1
             cnt += 1
             id_box = i + 1
             break

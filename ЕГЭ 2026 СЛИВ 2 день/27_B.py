@@ -10,7 +10,6 @@ for s in f:
     swet = s[1]
     razmer = s[2:]
     data.append([x, y, color, razmer])
-print(data[0])
 
 def goluboi(data):
     gay = []
@@ -40,10 +39,10 @@ def get_cluster(p0):
     return cluster
 
 clusters = []
-print(len(data))
+print('Всего звезд', len(data))
 while data:
     cluster = get_cluster(data[0])
-    print(len(cluster))
+    print('кластер', len(cluster))
     clusters.append(cluster)
 
 def center(cluster):
@@ -62,6 +61,7 @@ yellow_gigants_cluster1 = [[x, y, color, razmer] for x, y, color, razmer in clus
 yellow_gigants_cluster2 = [[x, y, color, razmer] for x, y, color, razmer in clusters[1] if color == 'G' and razmer == 'V']
 yellow_gigants_cluster3 = [[x, y, color, razmer] for x, y, color, razmer in clusters[2] if color == 'G' and razmer == 'V']
 B2 = len(yellow_gigants_cluster1)
+
 print(int(B1*10_000), B2)
 
 # 4601 13
