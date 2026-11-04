@@ -14,3 +14,4 @@ for x in range(1, 1000):
     if 1142*sr > 305*2**10:
         print(x)
         break
+
